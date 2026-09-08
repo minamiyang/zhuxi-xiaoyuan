@@ -2,27 +2,28 @@
 
 参考乡居沙盘图片制作的三维微缩场景，配套小学语文课文《乡下人家》的浏览器学习页。本仓库对应 2026-09-08 成品留存版。
 
+**在线预览：https://minamiyang.github.io/zhuxi-xiaoyuan/**
+
 网页提供两种模式：
 
 - **自由探索**：拖动旋转、滚轮或双指缩放、右键平移；草木、鸡鸭和昼夜持续变化。
 - **课文学习**：展示《乡下人家》八段原文，按朗读节奏自动推进，镜头依次关注瓜架、花境、屋后竹林、春笋、鸡群、溪鸭、门前饭菜与月夜灯窗。
 
-## 打开作品
+首次打开会下载约 64MB 的动态模型，需要稍等片刻。
+
+## 本地打开
 
 ```bash
 git clone https://github.com/minamiyang/zhuxi-xiaoyuan.git
-cd zhuxi-xiaoyuan/preview
-npm install
+cd zhuxi-xiaoyuan
 ```
 
-回到仓库根目录，双击 `启动预览.command`，浏览器会打开 `http://127.0.0.1:8769/preview/`。
+双击 `启动预览.command`，浏览器会打开 `http://127.0.0.1:8769/preview/`。
 
 - **高清成片**：`renders/竹溪小院_主视角.png`
 - **可编辑工程**：`竹溪小院.blend`（Blender 5.2.1，Cycles）
 - **可旋转模型**：`preview/竹溪小院_动态.glb`
 - **完整说明**：见 [使用说明.md](使用说明.md)、[昼夜引擎使用与接入.md](昼夜引擎使用与接入.md)
-
-克隆后需要先安装 Three.js 依赖，网页通过本地 `preview/node_modules` 加载渲染库。
 
 ## 仓库内容
 
