@@ -1,0 +1,29 @@
+/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/source/build_scene.py:61: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.diffuse_color=(*c,1);m.use_nodes=True
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+01 · 土地与溪流
+02 · 砖木瓦屋
+03 · 瓜架
+04 · 石拱桥
+05 · 榆树与竹林
+99 · 摄影棚
+/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/source/build_scene.py:202: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('柔和天空 · 无HDRI');world.use_nodes=True;world.node_tree.nodes.get('Background').inputs[0].default_value=(.69,.76,.85,1);world.node_tree.nodes.get('Background').inputs[1].default_value=.32;scene.world=world
+02A · 层叠筒瓦与屋脊
+02B · 门窗细木作与墙脚
+06 · 自制植物源与分布
+05 · 榆树与竹林
+03A · 丝瓜与藤蔓
+07 · 院落生活器物
+08 · 草甸、溪岸与花境
+09 · 母鸡、小鸡与溪鸭
+01A · 水下卵石
+01:36.279  render           | Saved: '/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/verification/first_full.png'
+Info: Saved as "竹溪小院.blend"
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

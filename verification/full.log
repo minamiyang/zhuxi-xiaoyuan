@@ -1,0 +1,14 @@
+/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/source/build_scene.py:61: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.diffuse_color=(*c,1);m.use_nodes=True
+/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/source/build_scene.py:202: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('柔和天空 · 无HDRI');world.use_nodes=True;world.node_tree.nodes.get('Background').inputs[0].default_value=(.69,.76,.85,1);world.node_tree.nodes.get('Background').inputs[1].default_value=.45;scene.world=world
+01:31.706  render           | Saved: '/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/verification/first_full.png'
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+Info: Saved as "竹溪小院.blend"
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

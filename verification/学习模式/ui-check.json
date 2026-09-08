@@ -1,0 +1,52 @@
+{
+  "errors": [],
+  "initialMusic": {
+    "muted": false,
+    "blocked": true,
+    "paused": true,
+    "suspended": false
+  },
+  "pauseDelta": 0,
+  "muted": {
+    "state": {
+      "muted": true,
+      "blocked": false,
+      "paused": true,
+      "suspended": true
+    },
+    "actual": true
+  },
+  "layout": {
+    "overflow": false,
+    "stage": {
+      "x": 0,
+      "y": 127,
+      "width": 390,
+      "height": 328.765625,
+      "top": 127,
+      "right": 390,
+      "bottom": 455.765625,
+      "left": 0
+    },
+    "reader": {
+      "x": 12,
+      "y": 464.1875,
+      "width": 366,
+      "height": 367.8125,
+      "top": 464.1875,
+      "right": 378,
+      "bottom": 832,
+      "left": 12
+    }
+  },
+  "explore": {
+    "mode": "explore",
+    "controls": true,
+    "music": {
+      "muted": true,
+      "blocked": false,
+      "paused": false,
+      "suspended": false
+    }
+  }
+}

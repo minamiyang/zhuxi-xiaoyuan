@@ -1,0 +1,8 @@
+preview/node_modules/
+*.blend1
+.DS_Store
+verification/preview-server.pid
+verification/preview-server.log
+__pycache__/
+*.pyc
+.venv/

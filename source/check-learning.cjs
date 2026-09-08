@@ -1,0 +1,12 @@
+const {chromium}=require('playwright'),fs=require('fs');
+(async()=>{const browser=await chromium.launch({channel:'chrome',headless:true});const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400)errors.push(r.status()+' '+r.url());});await page.goto('http://127.0.0.1:8769/preview/?v=7');await page.waitForFunction(()=>window.sceneReady,null,{timeout:120000});
+await page.evaluate(()=>viewer.seekFrame({seconds:0,hour:10}));await page.screenshot({path:'verification/学习模式/01-explore.png'});
+const initialMusic=await page.evaluate(()=>viewer.music.state);await page.getByRole('button',{name:'课文学习',exact:true}).click();await page.waitForTimeout(7000);await page.getByRole('button',{name:'暂停朗读',exact:true}).click();await page.waitForTimeout(1000);await page.screenshot({path:'verification/学习模式/02-garden.png'});
+const before=await page.evaluate(()=>viewer.lesson.state);await page.waitForTimeout(900);const after=await page.evaluate(()=>viewer.lesson.state);
+const paragraphScreens=[1,2,3,4,5,6,7];for(const i of paragraphScreens){await page.evaluate(i=>viewer.lesson.jump(i),i);await page.waitForTimeout(6700);await page.screenshot({path:`verification/学习模式/paragraph-${i+1}.png`});}
+await page.evaluate(()=>viewer.lesson.seek(1,28));await page.waitForTimeout(6500);await page.screenshot({path:'verification/学习模式/bamboo.png'});
+await page.getByRole('button',{name:'静音背景配乐',exact:true}).click();const muted=await page.evaluate(()=>({state:viewer.music.state,actual:viewer.music.audio.muted}));
+await page.setViewportSize({width:390,height:844});await page.evaluate(()=>viewer.lesson.jump(0));await page.waitForTimeout(6000);await page.screenshot({path:'verification/学习模式/mobile.png'});
+const layout=await page.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth,stage:document.getElementById('stage').getBoundingClientRect().toJSON(),reader:document.getElementById('reader').getBoundingClientRect().toJSON()}));
+await page.getByRole('button',{name:'自由探索',exact:true}).click();const explore=await page.evaluate(()=>({mode:viewer.state.mode,controls:viewer.controls.enabled,music:viewer.music.state}));
+fs.writeFileSync('verification/学习模式/ui-check.json',JSON.stringify({errors,initialMusic,pauseDelta:after.elapsed-before.elapsed,muted,layout,explore},null,2));console.log(JSON.stringify({errors,initialMusic,pauseDelta:after.elapsed-before.elapsed,muted,layout,explore}));await browser.close();})();

@@ -1,0 +1,46 @@
+{
+  "loaded": {
+    "mode": "explore",
+    "view": "hero",
+    "loaded": true,
+    "meshes": 84,
+    "zoom": 1
+  },
+  "zoomed": {
+    "mode": "explore",
+    "view": "hero",
+    "loaded": true,
+    "meshes": 84,
+    "zoom": 1.2277376631548256
+  },
+  "garden": {
+    "mode": "explore",
+    "view": "garden",
+    "loaded": true,
+    "meshes": 84,
+    "zoom": 1.85
+  },
+  "bridge": {
+    "mode": "explore",
+    "view": "bridge",
+    "loaded": true,
+    "meshes": 84,
+    "zoom": 2
+  },
+  "download": "竹溪小院.png",
+  "errors": [],
+  "localOnly": true,
+  "tested": [
+    "still images",
+    "load GLB",
+    "orbit drag",
+    "continuous zoom",
+    "garden preset",
+    "bridge preset",
+    "automatic orbit toggle",
+    "PNG save",
+    "portrait resize",
+    "still-mode switches",
+    "reload"
+  ]
+}

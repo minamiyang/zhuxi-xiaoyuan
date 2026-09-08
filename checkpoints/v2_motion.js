@@ -1,0 +1,9 @@
+// Deterministic world-space paths and anatomically bounded poses, shared by runtime and checks.
+export const riverCenter=z=>3.55+.48*Math.sin(-z*.58)+.15*Math.cos(-z*1.2);
+export const riverHalfWidth=z=>.72+.16*Math.cos(z*.8);
+const TAU=Math.PI*2;
+function point(theta,i){const z=(i?4.04:2.70)+(i?.24:.23)*Math.sin(theta);return {x:riverCenter(z)+.11*Math.cos(theta),y:.305,z};}
+const tables=[0,1].map(i=>{let total=0,prev=point(0,i);const entries=[{s:0,theta:0}];for(let k=1;k<=1024;k++){const theta=k*TAU/1024,p=point(theta,i);total+=Math.hypot(p.x-prev.x,p.z-prev.z);entries.push({s:total,theta});prev=p;}return {entries,total};});
+export function duckPose(t,i){const {entries,total}=tables[i],period=i?47:39;let d=((t/period+(i?.13:0))%1)*total;let lo=0,hi=entries.length-1;while(hi-lo>1){const m=(lo+hi)>>1;if(entries[m].s<d)lo=m;else hi=m;}const theta=entries[lo].theta+(entries[hi].theta-entries[lo].theta)*(d-entries[lo].s)/(entries[hi].s-entries[lo].s);const p=point(theta,i),a=point(theta-.002,i),b=point(theta+.002,i);return {...p,y:p.y+.003*Math.sin(t*1.65+i),heading:Math.atan2(b.x-a.x,b.z-a.z),roll:.012*Math.sin(t*1.2+i),period};}
+export function peckAngle(t,index,hen=false){const period=hen?11.8:8.9+index*.73,p=(t+index*1.81)%period;function pulse(start,duration){const u=(p-start)/duration;return u<0||u>1?0:Math.pow(Math.sin(u*Math.PI),2);}return (hen?1.43:1.00)*Math.max(pulse(.65,1.65),pulse(2.65,1.05));}
+export function windOffset(x,y,z,t,kind){const h=Math.max(0,y-.44),w=kind==='flower'||kind==='grass'?Math.min(1,h/.55)**2:kind==='vine'?Math.min(1,h/3)**2:Math.min(1,h/5.4)**2;const gust=.70+.30*Math.sin(t*.26+.3);const sway=Math.sin(t*.95+x*.38+z*.24)*gust;const amplitude=kind==='bamboo'?.065:kind==='tree'?.045:kind==='vine'?.022:.036;return [w*amplitude*sway,w*.005*Math.sin(t*1.3+x),w*amplitude*.48*Math.sin(t*.87+x*.38+z*.24+.7)];}

@@ -1,0 +1,10 @@
+00:01.447  blend            | Read blend: "/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/竹溪小院.blend"
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+{"roofBounds": [[-4.440000057220459, -0.3550001084804535, 3.7299997806549072], [1.7400000095367432, 4.105000019073486, 5.480000019073486]], "margin": 0.14, "leafSets": [{"object": "榆树分层叶冠 0", "before": 3571, "removed": 0}, {"object": "榆树分层叶冠 1", "before": 5342, "removed": 0}, {"object": "榆树分层叶冠 2", "before": 5328, "removed": 0}, {"object": "榆树分层叶冠 3", "before": 3608, "removed": 0}, {"object": "榆树分层叶冠 4", "before": 1780, "removed": 0}, {"object": "榆树分层叶冠 5", "before": 3614, "removed": 0}], "branchesAdjusted": []}
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

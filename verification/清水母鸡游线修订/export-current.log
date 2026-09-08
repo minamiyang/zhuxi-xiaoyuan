@@ -1,0 +1,736 @@
+00:00.904  blend            | Read blend: "/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/竹溪小院.blend"
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+evaluated 0
+evaluated 300
+evaluated 600
+evaluated 900
+evaluated 1200
+evaluated 1500
+evaluated 1800
+evaluated 2100
+EXPORT GROUPS 150
+/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/source/export_dynamic.py:100: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  old=ma.node_tree.nodes.get('Principled BSDF') if ma.use_nodes else None
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+17:11:01 | INFO: Starting glTF 2.0 export
+17:11:01 | INFO: Extracting primitive: Cube
+17:11:01 | INFO: Primitives created: 1
+17:11:01 | INFO: Extracting primitive: 室内地面.001
+17:11:01 | INFO: Primitives created: 1
+17:11:01 | INFO: Extracting primitive: 门槛.001
+17:11:01 | INFO: Primitives created: 1
+17:11:01 | INFO: Extracting primitive: 筒瓦_-1_00.001
+17:11:01 | INFO: Primitives created: 1
+17:11:01 | INFO: Extracting primitive: 筒瓦_-1_01.001
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 窗边框.004
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 石质窗台.002
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 灰泥不规则风化.046
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 墙脚前砌石.016
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 门檐拼板.013
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Cone.609
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 悬垂丝瓜 00.001
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 瓜皮纵棱
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 卷须
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 瓜柄
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 拱券石_00_0.001
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 树皮纵向沟脊
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 主干 · 起伏收径
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 方桌榫接腿.004
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.273
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 小方凳面.003
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 竹篮胎.001
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 瓷盘.003
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.283
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 带盖粗陶罐.001
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Cone.1190
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.644
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.645
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.649
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.646
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 绒毛源.001
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Cone.1193
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.652
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.653
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.657
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.654
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 绒毛源.002
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Cone.1196
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.660
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.661
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.665
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Sphere.662
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: 绒毛源.003
+17:11:02 | INFO: Primitives created: 1
+17:11:02 | INFO: Extracting primitive: Cone.1199
+17:11:02 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.668
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.669
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.673
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.670
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 绒毛源.004
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Cone.1202
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.676
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.677
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.681
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.678
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 绒毛源.005
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Cone.1205
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.684
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.685
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.689
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.686
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 绒毛源.006
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.693
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.694
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.692
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.698
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.697
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 细羽曲面源_3.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 细羽曲面源_4.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 细羽曲面源_5.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.720
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.721
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.719
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.725
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.724
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 细羽曲面源_3.002
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 细羽曲面源_4.002
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 细羽曲面源_5.002
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_0.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_2.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_22.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_11.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_53.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_43.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_44.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_42.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_49.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_5.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_6.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_7.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_4.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Mesh_54.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 鸭后涟漪
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Cone.620
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 竹秆 左竹
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 凤仙花茎
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: Sphere.304
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 草叶 1.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 草叶 2.001
+17:11:03 | INFO: Primitives created: 1
+17:11:03 | INFO: Extracting primitive: 草叶 3.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 一级分枝 00
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 攀缘藤
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 凤仙花瓣 0.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 凤仙花瓣 1.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 凤仙花瓣 2.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 完整展示底座.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: Cone.588
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 掌状瓜叶 0.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 掌状瓜叶 1.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 掌状瓜叶 2.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 掌状瓜叶 4.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 掌状瓜叶 5.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: Cone.619
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: Icosphere.005
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 苔藓细叶源.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 榆叶原型 0.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 榆叶原型 1.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 榆叶原型 2.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 榆叶原型 3.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 榆叶原型 4.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 榆叶原型 5.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: Icosphere.003
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 石灰墙体 · 山墙一体.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: Icosphere.002
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 0.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 1.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 2.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 3.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 4.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 5.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: Icosphere.004
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 0.002
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 1.002
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 2.002
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 4.002
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 披针竹叶 5.002
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 草叶 0.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 草叶 4.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 草叶 5.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 蜿蜒溪水 · 有厚度水体.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: 连通地形 · 溪床下切.001
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: Torus.002
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Extracting primitive: Torus.003
+17:11:04 | INFO: Primitives created: 1
+17:11:04 | INFO: Draco encoder: Encoding mesh Cube.
+17:11:04 | INFO: Draco encoder: Encoding mesh 02 · 旧杉木 · 顺纹.
+17:11:04 | INFO: Draco encoder: Encoding mesh 02 · 青灰砂岩 · 颗粒与风化.
+17:11:04 | INFO: Draco encoder: Encoding mesh 02A · 瓦口磨损.
+17:11:04 | INFO: Draco encoder: Encoding mesh 02A · 青灰筒瓦 · 陶土微孔.
+17:11:04 | INFO: Draco encoder: Encoding mesh 02B · 旧杉木 · 顺纹.
+17:11:04 | INFO: Draco encoder: Encoding mesh 02B · 桥石 · 暖灰石灰岩.
+17:11:04 | INFO: Draco encoder: Encoding mesh 02B · 灰泥脱落露土.
+17:11:04 | INFO: Draco encoder: Encoding mesh 02B · 青灰砂岩 · 颗粒与风化.
+17:11:04 | INFO: Draco encoder: Encoding mesh 02B · 青灰筒瓦 · 陶土微孔.
+17:11:04 | INFO: Draco encoder: Encoding mesh 03 · 竹木 · 蜜色旧表皮.
+17:11:04 | INFO: Draco encoder: Encoding mesh 03A · 丝瓜 · 纵棱表皮.
+17:11:04 | INFO: Draco encoder: Encoding mesh 03A · 丝瓜浅棱.
+17:11:04 | INFO: Draco encoder: Encoding mesh 03A · 叶色02.
+17:11:04 | INFO: Draco encoder: Encoding mesh 03A · 叶色03.
+17:11:04 | INFO: Draco encoder: Encoding mesh 04 · 桥石 · 暖灰石灰岩.
+17:11:04 | INFO: Draco encoder: Encoding mesh 05 · 竹木 · 蜜色旧表皮.
+17:11:04 | INFO: Draco encoder: Encoding mesh 05 · 老树树皮.
+17:11:04 | INFO: Draco encoder: Encoding mesh 07 · 旧杉木 · 顺纹.
+17:11:04 | INFO: Draco encoder: Encoding mesh 07 · 盘中青蔬.
+17:11:04 | INFO: Draco encoder: Encoding mesh 07 · 竹木 · 蜜色旧表皮.
+17:11:04 | INFO: Draco encoder: Encoding mesh 07 · 竹篾.
+17:11:04 | INFO: Draco encoder: Encoding mesh 07 · 米白瓷器.
+17:11:04 | INFO: Draco encoder: Encoding mesh 07 · 米糕与玉米金黄.
+17:11:04 | INFO: Draco encoder: Encoding mesh 07 · 粗陶 · 釉下砂粒.
+17:11:04 | INFO: Draco encoder: Encoding mesh 09 · 喙与足.
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 vertices, 36 indices, raw size: 840, encoded size: 284, compression ratio: 2.96
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 5880 vertices, 16812 indices, raw size: 268824, encoded size: 36159, compression ratio: 7.43
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1536 vertices, 2256 indices, raw size: 53664, encoded size: 9081, compression ratio: 5.91
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 76762 vertices, 240144 indices, raw size: 4030976, encoded size: 513418, compression ratio: 7.85
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 134264 vertices, 421152 indices, raw size: 5981056, encoded size: 906059, compression ratio: 6.60
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 34944 vertices, 51324 indices, raw size: 1220856, encoded size: 182572, compression ratio: 6.69
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 768 vertices, 1128 indices, raw size: 26832, encoded size: 5069, compression ratio: 5.29
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 414 vertices, 966 indices, raw size: 15180, encoded size: 3461, compression ratio: 4.39
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 12288 vertices, 18048 indices, raw size: 429312, encoded size: 52051, compression ratio: 8.25
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 4992 vertices, 7332 indices, raw size: 174408, encoded size: 24492, compression ratio: 7.12
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1276 vertices, 2904 indices, raw size: 56848, encoded size: 10771, compression ratio: 5.28
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 9071 vertices, 38400 indices, raw size: 367072, encoded size: 63396, compression ratio: 5.79
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 50264 vertices, 172800 indices, raw size: 2356160, encoded size: 263527, compression ratio: 8.94
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 39910 vertices, 134784 indices, raw size: 1865968, encoded size: 218341, compression ratio: 8.55
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2400 vertices, 9216 indices, raw size: 114432, encoded size: 11499, compression ratio: 9.95
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 137088 vertices, 205560 indices, raw size: 5209056, encoded size: 799366, compression ratio: 6.52
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 9897 vertices, 36864 indices, raw size: 469608, encoded size: 71277, compression ratio: 6.59
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 4267 vertices, 16416 indices, raw size: 203512, encoded size: 38697, compression ratio: 5.26
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 11101 vertices, 17112 indices, raw size: 478224, encoded size: 53971, compression ratio: 8.86
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1630 vertices, 3600 indices, raw size: 64400, encoded size: 13195, compression ratio: 4.88
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 43766 vertices, 153756 indices, raw size: 2058152, encoded size: 212673, compression ratio: 9.68
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 972 vertices, 3456 indices, raw size: 45792, encoded size: 10089, compression ratio: 4.54
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1304 vertices, 4320 indices, raw size: 50368, encoded size: 12656, compression ratio: 3.98
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 3260 vertices, 7200 indices, raw size: 128800, encoded size: 22723, compression ratio: 5.67
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 640 vertices, 2112 indices, raw size: 24704, encoded size: 7120, compression ratio: 3.47
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encode17:11:04 | INFO: Draco encoder: Encoding mesh 09 · 小鸡绒羽.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 眼珠.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 颈羽金黄.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽浅缘.
+17:11:05 | INFO: Draco encoder: Encoding mesh 雏鸡绒羽 1.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 喙与足.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 小鸡绒羽.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 眼珠.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 颈羽金黄.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽浅缘.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 雏鸡绒羽 2.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 喙与足.002.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 小鸡绒羽.002.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 眼珠.002.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 颈羽金黄.002.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽浅缘.002.
+17:11:05 | INFO: Draco encoder: Encoding mesh 雏鸡绒羽 3.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 喙与足.003.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 小鸡绒羽.003.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 眼珠.003.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 颈羽金黄.003.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽浅缘.003.
+17:11:05 | INFO: Draco encoder: Encoding mesh 雏鸡绒羽 4.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 喙与足.004.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 小鸡绒羽.004.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 眼珠.004.
+d 1650 vertices, 5508 indices, raw size: 77016, encoded size: 15820, compression ratio: 4.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 185599 vertices, 1009932 indices, raw size: 11306408, encoded size: 1182675, compression ratio: 9.56
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 462 vertices, 1584 indices, raw size: 21568, encoded size: 5703, compression ratio: 3.78
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 562 vertices, 2112 indices, raw size: 26704, encoded size: 7073, compression ratio: 3.78
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 294 vertices, 1056 indices, raw size: 13792, encoded size: 3277, compression ratio: 4.21
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1480 vertices, 2220 indices, raw size: 51800, encoded size: 12983, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1650 vertices, 5508 indices, raw size: 77016, encoded size: 15821, compression ratio: 4.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 185599 vertices, 1009932 indices, raw size: 11306408, encoded size: 1182450, compression ratio: 9.56
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 462 vertices, 1584 indices, raw size: 21568, encoded size: 5679, compression ratio: 3.80
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 562 vertices, 2112 indices, raw size: 26704, encoded size: 7083, compression ratio: 3.77
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 294 vertices, 1056 indices, raw size: 13792, encoded size: 3295, compression ratio: 4.19
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1480 vertices, 2220 indices, raw size: 51800, encoded size: 12985, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1650 vertices, 5508 indices, raw size: 77016, encoded size: 15821, compression ratio: 4.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 185599 vertices, 1009932 indices, raw size: 11306408, encoded size: 1182519, compression ratio: 9.56
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 462 vertices, 1584 indices, raw size: 21568, encoded size: 5701, compression ratio: 3.78
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 562 vertices, 2112 indices, raw size: 26704, encoded size: 7069, compression ratio: 3.78
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 294 vertices, 1056 indices, raw size: 13792, encoded size: 3311, compression ratio: 4.17
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1480 vertices, 2220 indices, raw size: 51800, encoded size: 12988, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1650 vertices, 5508 indices, raw size: 77016, encoded size: 15820, compression ratio: 4.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 185599 vertices, 1009932 indices, raw size: 11306408, encoded size: 1182526, compression ratio: 9.56
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 462 vertices, 1584 indices, raw size: 21568, encoded size: 5479, compression ratio: 3.94
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 562 vertices, 2112 indices, raw size: 26704, encoded size: 7049, compression ratio: 3.79
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 294 vertices, 1056 indices, raw size: 13792, encoded size: 3280, compression ratio: 4.20
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1480 vertices, 2220 indices, raw size: 51800, encoded size: 12982, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1650 vertices, 5508 indices, raw size: 77016, encoded size: 15821, compression ratio: 4.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 185599 vertices, 1009932 indices, raw size: 11306408, encoded size: 1182528, compression ratio: 9.56
+DracoEncoder | Preserve triangle order: no
+DracoEnco17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 颈羽金黄.004.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽浅缘.004.
+17:11:05 | INFO: Draco encoder: Encoding mesh 雏鸡绒羽 5.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 喙与足.005.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 小鸡绒羽.005.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 眼珠.005.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 颈羽金黄.005.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽浅缘.005.
+17:11:05 | INFO: Draco encoder: Encoding mesh 雏鸡绒羽 6.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 眼珠.006.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽浅缘.006.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽米褐.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭翼褐色.
+17:11:05 | INFO: Draco encoder: Encoding mesh 溪鸭 1 · 扁喙.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 溪鸭 1 · 细密覆羽 0.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 溪鸭 1 · 细密覆羽 1.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 溪鸭 1 · 细密覆羽 2.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 眼珠.007.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽浅缘.007.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭羽米褐.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · 鸭翼褐色.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 溪鸭 2 · 扁喙.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 溪鸭 2 · 细密覆羽 0.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 溪鸭 2 · 细密覆羽 1.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 溪鸭 2 · 细密覆羽 2.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · Material_0.
+der | Encoded 462 vertices, 1584 indices, raw size: 21568, encoded size: 5538, compression ratio: 3.89
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 562 vertices, 2112 indices, raw size: 26704, encoded size: 7015, compression ratio: 3.81
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 294 vertices, 1056 indices, raw size: 13792, encoded size: 3266, compression ratio: 4.22
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1480 vertices, 2220 indices, raw size: 51800, encoded size: 12972, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1650 vertices, 5508 indices, raw size: 77016, encoded size: 15821, compression ratio: 4.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 185599 vertices, 1009932 indices, raw size: 11306408, encoded size: 1182469, compression ratio: 9.56
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 462 vertices, 1584 indices, raw size: 21568, encoded size: 5683, compression ratio: 3.80
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 562 vertices, 2112 indices, raw size: 26704, encoded size: 7078, compression ratio: 3.77
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 294 vertices, 1056 indices, raw size: 13792, encoded size: 3252, compression ratio: 4.24
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1480 vertices, 2220 indices, raw size: 51800, encoded size: 12987, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 462 vertices, 1584 indices, raw size: 21568, encoded size: 5691, compression ratio: 3.79
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1800 vertices, 6600 indices, raw size: 85120, encoded size: 19061, compression ratio: 4.47
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 87952 vertices, 472800 indices, raw size: 5353080, encoded size: 617488, compression ratio: 8.67
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1647 vertices, 6264 indices, raw size: 78288, encoded size: 17388, compression ratio: 4.50
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 349 vertices, 1320 indices, raw size: 16560, encoded size: 4629, compression ratio: 3.58
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2809 vertices, 8352 indices, raw size: 106592, encoded size: 27369, compression ratio: 3.89
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2839 vertices, 8448 indices, raw size: 107744, encoded size: 27708, compression ratio: 3.89
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2752 vertices, 8256 indices, raw size: 104576, encoded size: 26774, compression ratio: 3.91
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 462 vertices, 1584 indices, raw size: 21568, encoded size: 5633, compression ratio: 3.83
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1800 vertices, 6600 indices, raw size: 85120, encoded size: 18673, compression ratio: 4.56
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 87952 vertices, 472800 indices, raw size: 5353080, encoded size: 617420, compression ratio: 8.67
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1647 vertices, 6264 indices, raw size: 78288, encoded size: 17279, compression ratio: 4.53
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 349 vertices, 1320 indices, raw size: 16560, encoded size: 4624, compression ratio: 3.58
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2809 vertices, 8352 indices, raw size: 106592, encoded size: 27351, compression ratio: 3.90
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2725 vertices, 8256 indices, raw size: 103712, encoded size: 26652, compression ratio: 3.89
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2798 vertices, 8352 indices, raw size: 106240, encoded size: 27351, compression ratio: 3.88
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | 17:11:05 | INFO: Draco encoder: Encoding mesh 09 · Material_1.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · Material_6.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · Material_7.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · Material_8.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · Material_9.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · Material_10.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · Material_11.
+17:11:05 | INFO: Draco encoder: Encoding mesh 09 · Material_12.
+17:11:05 | INFO: Draco encoder: Encoding mesh 折叠翼 · 短覆羽与飞羽.002.
+17:11:05 | INFO: Draco encoder: Encoding mesh 折叠翼 · 短覆羽与飞羽.003.
+17:11:05 | INFO: Draco encoder: Encoding mesh 母鸡短尾 · 圆端扇羽.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 背胸腹 · 顺体表覆羽.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh 颈披羽 · 沿弯曲颈部排列.001.
+17:11:05 | INFO: Draco encoder: Encoding mesh wake_replace · 薄水波高光.
+17:11:05 | INFO: Draco encoder: Encoding mesh wind_bamboo · 竹木 · 蜜色旧表皮.
+17:11:06 | INFO: Draco encoder: Encoding mesh wind_bamboo · 竹秆 · 黄绿色蜡皮.
+17:11:06 | INFO: Draco encoder: Encoding mesh wind_flower · 叶色03.
+17:11:06 | INFO: Draco encoder: Encoding mesh wind_flower · 花蕊暖黄.
+17:11:06 | INFO: Draco encoder: Encoding mesh wind_grass · 叶色01.
+17:11:06 | INFO: Draco encoder: Encoding mesh wind_grass · 叶色02.
+17:11:06 | INFO: Draco encoder: Encoding mesh wind_grass · 叶色03.
+17:11:06 | INFO: Draco encoder: Encoding mesh wind_tree_branch · 老树树皮.
+17:11:06 | INFO: Draco encoder: Encoding mesh wind_vine · 叶色03.
+17:11:06 | INFO: Draco encoder: Encoding mesh 五瓣花簇 0.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 五瓣花簇 1.001.
+Encoded 1582 vertices, 7296 indices, raw size: 77712, encoded size: 17125, compression ratio: 4.54
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1582 vertices, 7296 indices, raw size: 77712, encoded size: 16523, compression ratio: 4.70
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2252 vertices, 7008 indices, raw size: 102336, encoded size: 17551, compression ratio: 5.83
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 12418 vertices, 55224 indices, raw size: 605288, encoded size: 85115, compression ratio: 7.11
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2283 vertices, 10176 indices, raw size: 110792, encoded size: 24240, compression ratio: 4.57
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1582 vertices, 7296 indices, raw size: 77712, encoded size: 15938, compression ratio: 4.88
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1582 vertices, 7296 indices, raw size: 77712, encoded size: 15391, compression ratio: 5.05
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2050 vertices, 7764 indices, raw size: 97368, encoded size: 22154, compression ratio: 4.40
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1786 vertices, 7968 indices, raw size: 87216, encoded size: 17680, compression ratio: 4.93
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 4260 vertices, 20160 indices, raw size: 261840, encoded size: 34856, compression ratio: 7.51
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 4290 vertices, 20160 indices, raw size: 263400, encoded size: 35644, compression ratio: 7.39
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 958 vertices, 4536 indices, raw size: 58888, encoded size: 9740, compression ratio: 6.05
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 67200 vertices, 288288 indices, raw size: 4601584, encoded size: 563064, compression ratio: 8.17
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 18255 vertices, 80640 indices, raw size: 1103052, encoded size: 151850, compression ratio: 7.26
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 57804 vertices, 207360 indices, raw size: 2726880, encoded size: 237839, compression ratio: 11.47
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 20672 vertices, 45696 indices, raw size: 918272, encoded size: 129243, compression ratio: 7.11
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 105088 vertices, 345024 indices, raw size: 5582816, encoded size: 706699, compression ratio: 7.90
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 15574 vertices, 51417 indices, raw size: 725474, encoded size: 100039, compression ratio: 7.25
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 27188 vertices, 57360 indices, raw size: 1051680, encoded size: 174480, compression ratio: 6.03
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 37118 vertices, 92055 indices, raw size: 1365422, encoded size: 342573, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 36534 vertices, 90630 indices, raw size: 1344876, encoded size: 336648, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 37588 vertices, 93081 indices, raw size: 1382226, encoded size: 346540, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 31831 vertices, 115200 indices, raw size: 1503640, encoded size: 252158, compression ratio: 5.96
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 33710 vertices, 126816 indices, raw size: 1602032, encoded size: 224656, compression ratio: 7.13
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 3153 vertices, 9450 indices, raw size: 119796, encoded size: 30248, compression ratio: 3.96
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2700 vertices, 8100 indices, raw size: 102600, encoded size: 26251, compression ratio: 3.17:11:06 | INFO: Draco encoder: Encoding mesh 五瓣花簇 2.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 完整展示底座.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 屋脊芯.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 掌叶攀覆 0.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 掌叶攀覆 1.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 掌叶攀覆 2.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 掌叶攀覆 4.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 掌叶攀覆 5.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 木椽端头.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 树根半埋石.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 桥脚贴石苔.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 榆树分层叶冠 0.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 榆树分层叶冠 1.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 榆树分层叶冠 2.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 榆树分层叶冠 3.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 榆树分层叶冠 4.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 榆树分层叶冠 5.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 浅溪透视河床石.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 石灰墙体 · 山墙一体.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 砾石与溪岸卵石.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 竹叶飞簇 0.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 竹叶飞簇 1.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 竹叶飞簇 2.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 竹叶飞簇 3.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 竹叶飞簇 4.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 竹叶飞簇 5.001.
+91
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 3873 vertices, 11610 indices, raw size: 147156, encoded size: 36865, compression ratio: 3.99
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 384 vertices, 564 indices, raw size: 13416, encoded size: 2756, compression ratio: 4.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 58 vertices, 132 indices, raw size: 2584, encoded size: 900, compression ratio: 2.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1117 vertices, 3360 indices, raw size: 42464, encoded size: 11957, compression ratio: 3.55
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1587 vertices, 4704 indices, raw size: 60192, encoded size: 17099, compression ratio: 3.52
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1093 vertices, 3360 indices, raw size: 41696, encoded size: 11717, compression ratio: 3.56
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1268 vertices, 3744 indices, raw size: 48064, encoded size: 13686, compression ratio: 3.51
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1598 vertices, 4896 indices, raw size: 60928, encoded size: 17037, compression ratio: 3.58
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1276 vertices, 2904 indices, raw size: 56848, encoded size: 10590, compression ratio: 5.37
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 12899 vertices, 45018 indices, raw size: 601356, encoded size: 164209, compression ratio: 3.66
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 17594 vertices, 52800 indices, raw size: 668480, encoded size: 140533, compression ratio: 4.76
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 82986 vertices, 204984 indices, raw size: 3465664, encoded size: 783154, compression ratio: 4.43
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 124773 vertices, 307746 indices, raw size: 5208040, encoded size: 1173104, compression ratio: 4.44
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 125877 vertices, 309636 indices, raw size: 5250544, encoded size: 1185337, compression ratio: 4.43
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 84365 vertices, 207576 indices, raw size: 3520128, encoded size: 795407, compression ratio: 4.43
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 41069 vertices, 101574 indices, raw size: 1512236, encoded size: 389787, compression ratio: 3.88
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 84329 vertices, 207684 indices, raw size: 3519088, encoded size: 796477, compression ratio: 4.42
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 47768 vertices, 164700 indices, raw size: 2222000, encoded size: 507339, compression ratio: 4.38
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1450 vertices, 2292 indices, raw size: 50984, encoded size: 11502, compression ratio: 4.43
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 293223 vertices, 1025532 indices, raw size: 15729448, encoded size: 3020741, compression ratio: 5.21
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 10334 vertices, 27417 indices, raw size: 383250, encoded size: 98978, compression ratio: 3.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 10952 vertices, 29355 indices, raw size: 406454, encoded size: 104534, compression ratio: 3.89
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 10304 vertices, 27873 indices, raw size: 382498, encoded size: 98506, compression ratio: 3.88
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 10076 vertices, 26790 indices, raw size: 372940, encoded size: 96335, compression ratio: 3.87
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 11217 vertices, 29469 indices, raw size: 414842, encoded size: 106982, compression ratio: 3.88
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 11403 vertices, 30210 indice17:11:06 | INFO: Draco encoder: Encoding mesh 细碎土粒.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 花境叶片 0.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 花境叶片 1.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 花境叶片 2.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 花境叶片 4.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 花境叶片 5.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 草丛高低层 0.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 草丛高低层 4.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 草丛高低层 5.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 蜿蜒溪水 · 有厚度水体.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 连通地形 · 溪床下切.001.
+17:11:06 | INFO: Draco encoder: Encoding mesh 青铜门环.002.
+17:11:06 | INFO: Draco encoder: Encoding mesh 青铜门环.003.
+17:11:06 | INFO: Finished glTF 2.0 export in 5.132215976715088 s
+
+EXPORT_DONE {"invalid_positions": [], "invalid_normals": [], "zero_normals": [], "objects": 2138, "external_images": [], "thin_sheets": ["leaves", "flower petals", "grass"], "note": "水为有厚度曲面；房屋Boolean保持在原始blend；导出副本展开实例并使用自制便携纹理。", "export_objects": 150, "vertices": 2779183, "faces": 2694134}
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+s, raw size: 421604, encoded size: 108787, compression ratio: 3.88
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 316620 vertices, 316620 indices, raw size: 13931280, encoded size: 2444965, compression ratio: 5.70
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 854 vertices, 1995 indices, raw size: 31030, encoded size: 8702, compression ratio: 3.57
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1116 vertices, 2736 indices, raw size: 40864, encoded size: 11332, compression ratio: 3.61
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1160 vertices, 2907 indices, raw size: 42710, encoded size: 11733, compression ratio: 3.64
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1141 vertices, 2850 indices, raw size: 41956, encoded size: 11553, compression ratio: 3.63
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1133 vertices, 2850 indices, raw size: 41732, encoded size: 11488, compression ratio: 3.63
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 32934 vertices, 81681 indices, raw size: 1212034, encoded size: 304891, compression ratio: 3.98
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 31788 vertices, 78945 indices, raw size: 1170498, encoded size: 294620, compression ratio: 3.97
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 30830 vertices, 76380 indices, raw size: 1134296, encoded size: 286152, compression ratio: 3.96
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 4018 vertices, 19536 indices, raw size: 167648, encoded size: 23578, compression ratio: 7.11
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 56877 vertices, 327960 indices, raw size: 2474064, encoded size: 285641, compression ratio: 8.66
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 324 vertices, 576 indices, raw size: 14112, encoded size: 4438, compression ratio: 3.18
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 352 vertices, 576 indices, raw size: 15232, encoded size: 4959, compression ratio: 3.07
+
+Blender quit

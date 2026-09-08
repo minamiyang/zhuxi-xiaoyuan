@@ -1,0 +1,1205 @@
+{
+  "names": [
+    {
+      "name": "",
+      "visible": true,
+      "mat": "",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 4
+    },
+    {
+      "name": "02_·_旧杉木_·_顺纹",
+      "visible": true,
+      "mat": "旧杉木 · 顺纹",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 5880
+    },
+    {
+      "name": "02_·_青灰砂岩_·_颗粒与风化",
+      "visible": true,
+      "mat": "青灰砂岩 · 颗粒与风化",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1536
+    },
+    {
+      "name": "02A_·_瓦口磨损",
+      "visible": true,
+      "mat": "瓦口磨损",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 76762
+    },
+    {
+      "name": "02A_·_青灰筒瓦_·_陶土微孔",
+      "visible": true,
+      "mat": "青灰筒瓦 · 陶土微孔",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 134264
+    },
+    {
+      "name": "02B_·_旧杉木_·_顺纹",
+      "visible": true,
+      "mat": "旧杉木 · 顺纹",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 34944
+    },
+    {
+      "name": "02B_·_桥石_·_暖灰石灰岩",
+      "visible": true,
+      "mat": "桥石 · 暖灰石灰岩",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 768
+    },
+    {
+      "name": "02B_·_灰泥脱落露土",
+      "visible": true,
+      "mat": "灰泥脱落露土",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 414
+    },
+    {
+      "name": "02B_·_青灰砂岩_·_颗粒与风化",
+      "visible": true,
+      "mat": "青灰砂岩 · 颗粒与风化",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 12288
+    },
+    {
+      "name": "02B_·_青灰筒瓦_·_陶土微孔",
+      "visible": true,
+      "mat": "青灰筒瓦 · 陶土微孔",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 4992
+    },
+    {
+      "name": "03_·_竹木_·_蜜色旧表皮",
+      "visible": true,
+      "mat": "竹木 · 蜜色旧表皮",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1276
+    },
+    {
+      "name": "03A_·_丝瓜_·_纵棱表皮",
+      "visible": true,
+      "mat": "丝瓜 · 纵棱表皮",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 9071
+    },
+    {
+      "name": "03A_·_丝瓜浅棱",
+      "visible": true,
+      "mat": "丝瓜浅棱",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 50264
+    },
+    {
+      "name": "03A_·_叶色02",
+      "visible": true,
+      "mat": "叶色02",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 39910
+    },
+    {
+      "name": "03A_·_叶色03",
+      "visible": true,
+      "mat": "叶色03",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 2400
+    },
+    {
+      "name": "04_·_桥石_·_暖灰石灰岩",
+      "visible": true,
+      "mat": "桥石 · 暖灰石灰岩",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 137088
+    },
+    {
+      "name": "05_·_竹木_·_蜜色旧表皮",
+      "visible": true,
+      "mat": "竹木 · 蜜色旧表皮",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 9897
+    },
+    {
+      "name": "05_·_老树树皮",
+      "visible": true,
+      "mat": "老树树皮",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 4267
+    },
+    {
+      "name": "07_·_旧杉木_·_顺纹",
+      "visible": true,
+      "mat": "旧杉木 · 顺纹",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 11101
+    },
+    {
+      "name": "07_·_盘中青蔬",
+      "visible": true,
+      "mat": "盘中青蔬",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1630
+    },
+    {
+      "name": "07_·_竹木_·_蜜色旧表皮",
+      "visible": true,
+      "mat": "竹木 · 蜜色旧表皮",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 43766
+    },
+    {
+      "name": "07_·_竹篾",
+      "visible": true,
+      "mat": "竹篾",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 972
+    },
+    {
+      "name": "07_·_米白瓷器",
+      "visible": true,
+      "mat": "米白瓷器",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1304
+    },
+    {
+      "name": "07_·_米糕与玉米金黄",
+      "visible": true,
+      "mat": "米糕与玉米金黄",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 3260
+    },
+    {
+      "name": "07_·_粗陶_·_釉下砂粒",
+      "visible": true,
+      "mat": "粗陶 · 釉下砂粒",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 640
+    },
+    {
+      "name": "09_·_喙与足001",
+      "visible": true,
+      "mat": "喙与足",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1650
+    },
+    {
+      "name": "09_·_小鸡绒羽",
+      "visible": true,
+      "mat": "小鸡绒羽",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 185599
+    },
+    {
+      "name": "09_·_眼珠001",
+      "visible": true,
+      "mat": "眼珠",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 462
+    },
+    {
+      "name": "09_·_颈羽金黄",
+      "visible": true,
+      "mat": "颈羽金黄",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 562
+    },
+    {
+      "name": "09_·_鸭羽浅缘001",
+      "visible": true,
+      "mat": "鸭羽浅缘",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 294
+    },
+    {
+      "name": "雏鸡绒羽_1001",
+      "visible": true,
+      "mat": "雏鸡绒毛",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1480
+    },
+    {
+      "name": "09_·_喙与足002",
+      "visible": true,
+      "mat": "喙与足",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1650
+    },
+    {
+      "name": "09_·_小鸡绒羽001",
+      "visible": true,
+      "mat": "小鸡绒羽",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 185599
+    },
+    {
+      "name": "09_·_眼珠002",
+      "visible": true,
+      "mat": "眼珠",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 462
+    },
+    {
+      "name": "09_·_颈羽金黄001",
+      "visible": true,
+      "mat": "颈羽金黄",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 562
+    },
+    {
+      "name": "09_·_鸭羽浅缘002",
+      "visible": true,
+      "mat": "鸭羽浅缘",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 294
+    },
+    {
+      "name": "雏鸡绒羽_2001",
+      "visible": true,
+      "mat": "雏鸡绒毛",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1480
+    },
+    {
+      "name": "09_·_喙与足003",
+      "visible": true,
+      "mat": "喙与足",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1650
+    },
+    {
+      "name": "09_·_小鸡绒羽002",
+      "visible": true,
+      "mat": "小鸡绒羽",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 185599
+    },
+    {
+      "name": "09_·_眼珠003",
+      "visible": true,
+      "mat": "眼珠",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 462
+    },
+    {
+      "name": "09_·_颈羽金黄002",
+      "visible": true,
+      "mat": "颈羽金黄",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 562
+    },
+    {
+      "name": "09_·_鸭羽浅缘003",
+      "visible": true,
+      "mat": "鸭羽浅缘",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 294
+    },
+    {
+      "name": "雏鸡绒羽_3001",
+      "visible": true,
+      "mat": "雏鸡绒毛",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1480
+    },
+    {
+      "name": "09_·_喙与足004",
+      "visible": true,
+      "mat": "喙与足",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1650
+    },
+    {
+      "name": "09_·_小鸡绒羽003",
+      "visible": true,
+      "mat": "小鸡绒羽",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 185599
+    },
+    {
+      "name": "09_·_眼珠004",
+      "visible": true,
+      "mat": "眼珠",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 462
+    },
+    {
+      "name": "09_·_颈羽金黄003",
+      "visible": true,
+      "mat": "颈羽金黄",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 562
+    },
+    {
+      "name": "09_·_鸭羽浅缘004",
+      "visible": true,
+      "mat": "鸭羽浅缘",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 294
+    },
+    {
+      "name": "雏鸡绒羽_4001",
+      "visible": true,
+      "mat": "雏鸡绒毛",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1480
+    },
+    {
+      "name": "09_·_喙与足005",
+      "visible": true,
+      "mat": "喙与足",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1650
+    },
+    {
+      "name": "09_·_小鸡绒羽004",
+      "visible": true,
+      "mat": "小鸡绒羽",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 185599
+    },
+    {
+      "name": "09_·_眼珠005",
+      "visible": true,
+      "mat": "眼珠",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 462
+    },
+    {
+      "name": "09_·_颈羽金黄004",
+      "visible": true,
+      "mat": "颈羽金黄",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 562
+    },
+    {
+      "name": "09_·_鸭羽浅缘005",
+      "visible": true,
+      "mat": "鸭羽浅缘",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 294
+    },
+    {
+      "name": "雏鸡绒羽_5001",
+      "visible": true,
+      "mat": "雏鸡绒毛",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1480
+    },
+    {
+      "name": "09_·_喙与足006",
+      "visible": true,
+      "mat": "喙与足",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1650
+    },
+    {
+      "name": "09_·_小鸡绒羽005",
+      "visible": true,
+      "mat": "小鸡绒羽",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 185599
+    },
+    {
+      "name": "09_·_眼珠006",
+      "visible": true,
+      "mat": "眼珠",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 462
+    },
+    {
+      "name": "09_·_颈羽金黄005",
+      "visible": true,
+      "mat": "颈羽金黄",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 562
+    },
+    {
+      "name": "09_·_鸭羽浅缘006",
+      "visible": true,
+      "mat": "鸭羽浅缘",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 294
+    },
+    {
+      "name": "雏鸡绒羽_6001",
+      "visible": true,
+      "mat": "雏鸡绒毛",
+      "uni": "breeze-neck-v2-0-2",
+      "verts": 1480
+    },
+    {
+      "name": "09_·_眼珠007",
+      "visible": true,
+      "mat": "眼珠",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 462
+    },
+    {
+      "name": "09_·_鸭羽浅缘007",
+      "visible": true,
+      "mat": "鸭羽浅缘",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 1800
+    },
+    {
+      "name": "09_·_鸭羽米褐",
+      "visible": true,
+      "mat": "鸭羽米褐",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 87952
+    },
+    {
+      "name": "09_·_鸭翼褐色",
+      "visible": true,
+      "mat": "鸭翼褐色",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 1647
+    },
+    {
+      "name": "溪鸭_1_·_扁喙001",
+      "visible": true,
+      "mat": "喙与足",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 349
+    },
+    {
+      "name": "溪鸭_1_·_细密覆羽_0001",
+      "visible": true,
+      "mat": "细羽片_3",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 2809
+    },
+    {
+      "name": "溪鸭_1_·_细密覆羽_1001",
+      "visible": true,
+      "mat": "细羽片_4",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 2839
+    },
+    {
+      "name": "溪鸭_1_·_细密覆羽_2001",
+      "visible": true,
+      "mat": "细羽片_5",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 2752
+    },
+    {
+      "name": "09_·_眼珠008",
+      "visible": true,
+      "mat": "眼珠",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 462
+    },
+    {
+      "name": "09_·_鸭羽浅缘008",
+      "visible": true,
+      "mat": "鸭羽浅缘",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 1800
+    },
+    {
+      "name": "09_·_鸭羽米褐001",
+      "visible": true,
+      "mat": "鸭羽米褐",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 87952
+    },
+    {
+      "name": "09_·_鸭翼褐色001",
+      "visible": true,
+      "mat": "鸭翼褐色",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 1647
+    },
+    {
+      "name": "溪鸭_2_·_扁喙001",
+      "visible": true,
+      "mat": "喙与足",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 349
+    },
+    {
+      "name": "溪鸭_2_·_细密覆羽_0001",
+      "visible": true,
+      "mat": "细羽片_3",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 2809
+    },
+    {
+      "name": "溪鸭_2_·_细密覆羽_1001",
+      "visible": true,
+      "mat": "细羽片_4",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 2725
+    },
+    {
+      "name": "溪鸭_2_·_细密覆羽_2001",
+      "visible": true,
+      "mat": "细羽片_5",
+      "uni": "breeze-neck-v2-0-0",
+      "verts": 2798
+    },
+    {
+      "name": "09_·_喙与足",
+      "visible": true,
+      "mat": "喙与足",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 1658
+    },
+    {
+      "name": "09_·_眼珠",
+      "visible": true,
+      "mat": "眼珠",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 462
+    },
+    {
+      "name": "09_·_翅羽棕",
+      "visible": true,
+      "mat": "翅羽棕",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 698
+    },
+    {
+      "name": "09_·_鸡冠肉红",
+      "visible": true,
+      "mat": "鸡冠肉红",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 1817
+    },
+    {
+      "name": "09_·_鸭羽浅缘",
+      "visible": true,
+      "mat": "鸭羽浅缘",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 294
+    },
+    {
+      "name": "11_·_尾羽深褐",
+      "visible": true,
+      "mat": "尾羽深褐",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 1766
+    },
+    {
+      "name": "11_·_细羽片_1",
+      "visible": true,
+      "mat": "细羽片_1",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 1458
+    },
+    {
+      "name": "11_·_颈羽金黄",
+      "visible": true,
+      "mat": "颈羽金黄",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 5587
+    },
+    {
+      "name": "母鸡_·_细密覆羽_0001",
+      "visible": true,
+      "mat": "细羽片_0",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 2785
+    },
+    {
+      "name": "母鸡_·_细密覆羽_1001",
+      "visible": true,
+      "mat": "细羽片_1",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 2812
+    },
+    {
+      "name": "母鸡_·_细密覆羽_2001",
+      "visible": true,
+      "mat": "细羽片_2",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 2705
+    },
+    {
+      "name": "母鸡_·_连续身体001",
+      "visible": true,
+      "mat": "母鸡金棕羽",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 79539
+    },
+    {
+      "name": "母鸡_·_颈部披羽001",
+      "visible": true,
+      "mat": "颈羽金黄",
+      "uni": "breeze-neck-v2-0-1",
+      "verts": 1832
+    },
+    {
+      "name": "wake_replace_·_薄水波高光",
+      "visible": false,
+      "mat": "薄水波高光",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 57804
+    },
+    {
+      "name": "wind_bamboo_·_竹木_·_蜜色旧表皮",
+      "visible": true,
+      "mat": "竹木 · 蜜色旧表皮",
+      "uni": "breeze-neck-v2-2-0",
+      "verts": 20672
+    },
+    {
+      "name": "wind_bamboo_·_竹秆_·_黄绿色蜡皮",
+      "visible": true,
+      "mat": "竹秆 · 黄绿色蜡皮",
+      "uni": "breeze-neck-v2-2-0",
+      "verts": 105088
+    },
+    {
+      "name": "wind_flower_·_叶色03",
+      "visible": true,
+      "mat": "叶色03",
+      "uni": "breeze-neck-v2-4-0",
+      "verts": 15574
+    },
+    {
+      "name": "wind_flower_·_花蕊暖黄",
+      "visible": true,
+      "mat": "花蕊暖黄",
+      "uni": "breeze-neck-v2-4-0",
+      "verts": 27188
+    },
+    {
+      "name": "wind_grass_·_叶色01",
+      "visible": true,
+      "mat": "叶色01",
+      "uni": "breeze-neck-v2-4-0",
+      "verts": 37118
+    },
+    {
+      "name": "wind_grass_·_叶色02",
+      "visible": true,
+      "mat": "叶色02",
+      "uni": "breeze-neck-v2-4-0",
+      "verts": 36534
+    },
+    {
+      "name": "wind_grass_·_叶色03",
+      "visible": true,
+      "mat": "叶色03",
+      "uni": "breeze-neck-v2-4-0",
+      "verts": 37588
+    },
+    {
+      "name": "wind_tree_branch_·_老树树皮",
+      "visible": true,
+      "mat": "老树树皮",
+      "uni": "breeze-neck-v2-1-0",
+      "verts": 31831
+    },
+    {
+      "name": "wind_vine_·_叶色03",
+      "visible": true,
+      "mat": "叶色03",
+      "uni": "breeze-neck-v2-3-0",
+      "verts": 33710
+    },
+    {
+      "name": "五瓣花簇_0001",
+      "visible": true,
+      "mat": "凤仙花 0",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 3153
+    },
+    {
+      "name": "五瓣花簇_1001",
+      "visible": true,
+      "mat": "凤仙花 1",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 2700
+    },
+    {
+      "name": "五瓣花簇_2001",
+      "visible": true,
+      "mat": "凤仙花 2",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 3873
+    },
+    {
+      "name": "完整展示底座001",
+      "visible": true,
+      "mat": "炭灰展示底座",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 384
+    },
+    {
+      "name": "屋脊芯001",
+      "visible": true,
+      "mat": "青灰筒瓦 · 陶土微孔",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 58
+    },
+    {
+      "name": "掌叶攀覆_0001",
+      "visible": true,
+      "mat": "叶色00",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1117
+    },
+    {
+      "name": "掌叶攀覆_1001",
+      "visible": true,
+      "mat": "叶色01",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1587
+    },
+    {
+      "name": "掌叶攀覆_2001",
+      "visible": true,
+      "mat": "叶色02",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1093
+    },
+    {
+      "name": "掌叶攀覆_4001",
+      "visible": true,
+      "mat": "叶色04",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1268
+    },
+    {
+      "name": "掌叶攀覆_5001",
+      "visible": true,
+      "mat": "叶色05",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1598
+    },
+    {
+      "name": "木椽端头001",
+      "visible": true,
+      "mat": "竹木 · 蜜色旧表皮",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1276
+    },
+    {
+      "name": "树根半埋石001",
+      "visible": true,
+      "mat": "桥石 · 暖灰石灰岩",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 12899
+    },
+    {
+      "name": "桥脚贴石苔001",
+      "visible": true,
+      "mat": "石缝苔藓",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 17594
+    },
+    {
+      "name": "榆树分层叶冠_0001",
+      "visible": true,
+      "mat": "叶色00",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 82986
+    },
+    {
+      "name": "榆树分层叶冠_1001",
+      "visible": true,
+      "mat": "叶色01",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 124773
+    },
+    {
+      "name": "榆树分层叶冠_2001",
+      "visible": true,
+      "mat": "叶色02",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 125877
+    },
+    {
+      "name": "榆树分层叶冠_3001",
+      "visible": true,
+      "mat": "叶色03",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 84365
+    },
+    {
+      "name": "榆树分层叶冠_4001",
+      "visible": true,
+      "mat": "叶色04",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 41069
+    },
+    {
+      "name": "榆树分层叶冠_5001",
+      "visible": true,
+      "mat": "叶色05",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 84329
+    },
+    {
+      "name": "浅溪透视河床石001",
+      "visible": true,
+      "mat": "桥石 · 暖灰石灰岩",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 47768
+    },
+    {
+      "name": "石灰墙体_·_山墙一体001",
+      "visible": true,
+      "mat": "米白灰泥 · 石灰颗粒",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1450
+    },
+    {
+      "name": "砾石与溪岸卵石001",
+      "visible": true,
+      "mat": "桥石 · 暖灰石灰岩",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 293223
+    },
+    {
+      "name": "竹叶飞簇_0001",
+      "visible": true,
+      "mat": "叶色00",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 10334
+    },
+    {
+      "name": "竹叶飞簇_1001",
+      "visible": true,
+      "mat": "叶色01",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 10952
+    },
+    {
+      "name": "竹叶飞簇_2001",
+      "visible": true,
+      "mat": "叶色02",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 10304
+    },
+    {
+      "name": "竹叶飞簇_3001",
+      "visible": true,
+      "mat": "叶色03",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 10076
+    },
+    {
+      "name": "竹叶飞簇_4001",
+      "visible": true,
+      "mat": "叶色04",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 11217
+    },
+    {
+      "name": "竹叶飞簇_5001",
+      "visible": true,
+      "mat": "叶色05",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 11403
+    },
+    {
+      "name": "细碎土粒001",
+      "visible": true,
+      "mat": "院土细碎团粒",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 316620
+    },
+    {
+      "name": "花境叶片_0001",
+      "visible": true,
+      "mat": "叶色00",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 854
+    },
+    {
+      "name": "花境叶片_1001",
+      "visible": true,
+      "mat": "叶色01",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1116
+    },
+    {
+      "name": "花境叶片_2001",
+      "visible": true,
+      "mat": "叶色02",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1160
+    },
+    {
+      "name": "花境叶片_4001",
+      "visible": true,
+      "mat": "叶色04",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1141
+    },
+    {
+      "name": "花境叶片_5001",
+      "visible": true,
+      "mat": "叶色05",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 1133
+    },
+    {
+      "name": "草丛高低层_0001",
+      "visible": true,
+      "mat": "叶色00",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 32934
+    },
+    {
+      "name": "草丛高低层_4001",
+      "visible": true,
+      "mat": "叶色04",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 31788
+    },
+    {
+      "name": "草丛高低层_5001",
+      "visible": true,
+      "mat": "叶色05",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 30830
+    },
+    {
+      "name": "蜿蜒溪水_·_有厚度水体001",
+      "visible": false,
+      "mat": "溪水 · 透射与水面微波",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 4018
+    },
+    {
+      "name": "连通地形_·_溪床下切001",
+      "visible": true,
+      "mat": "压实院土 · 土粒",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 56877
+    },
+    {
+      "name": "青铜门环002",
+      "visible": true,
+      "mat": "暗铜门环 -1",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 324
+    },
+    {
+      "name": "青铜门环003",
+      "visible": true,
+      "mat": "暗铜门环 1",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 352
+    },
+    {
+      "name": "living_stream",
+      "visible": true,
+      "mat": "",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 3417
+    },
+    {
+      "name": "",
+      "visible": true,
+      "mat": "",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 162
+    },
+    {
+      "name": "",
+      "visible": true,
+      "mat": "",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 162
+    },
+    {
+      "name": "",
+      "visible": true,
+      "mat": "",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 162
+    },
+    {
+      "name": "",
+      "visible": true,
+      "mat": "",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 162
+    },
+    {
+      "name": "",
+      "visible": true,
+      "mat": "",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 162
+    },
+    {
+      "name": "",
+      "visible": true,
+      "mat": "",
+      "uni": "onBeforeCompile( /* shaderobject, renderer */ ) {}",
+      "verts": 162
+    }
+  ],
+  "state": {
+    "mode": "explore",
+    "view": "hero",
+    "loaded": true,
+    "playing": false,
+    "time": 1.475,
+    "meshes": 147,
+    "zoom": 1,
+    "actors": [
+      {
+        "name": "actor_chick_1",
+        "type": "chick",
+        "index": 0,
+        "position": [
+          -0.9300000071525574,
+          0.4637305736541748,
+          3.119999885559082
+        ],
+        "rotation": [
+          0,
+          -0.19999999694863843,
+          0,
+          "XYZ"
+        ],
+        "peck": 1
+      },
+      {
+        "name": "actor_chick_2",
+        "type": "chick",
+        "index": 1,
+        "position": [
+          -0.23000000417232513,
+          0.42807963490486145,
+          2.9600000381469727
+        ],
+        "rotation": [
+          0,
+          0.500000077703858,
+          0,
+          "XYZ"
+        ],
+        "peck": 0.8955355173281703
+      },
+      {
+        "name": "actor_chick_3",
+        "type": "chick",
+        "index": 2,
+        "position": [
+          0.3700000047683716,
+          0.4377547800540924,
+          2.680000066757202
+        ],
+        "rotation": [
+          0,
+          -0.19999999694863843,
+          0,
+          "XYZ"
+        ],
+        "peck": 0
+      },
+      {
+        "name": "actor_chick_4",
+        "type": "chick",
+        "index": 3,
+        "position": [
+          0.9399999976158142,
+          0.4250388741493225,
+          2.5999999046325684
+        ],
+        "rotation": [
+          0,
+          0.39999991011722696,
+          0,
+          "XYZ"
+        ],
+        "peck": 0
+      },
+      {
+        "name": "actor_chick_5",
+        "type": "chick",
+        "index": 4,
+        "position": [
+          0.44999998807907104,
+          0.4439185857772827,
+          2.0899999141693115
+        ],
+        "rotation": [
+          0,
+          -0.7000000998605862,
+          0,
+          "XYZ"
+        ],
+        "peck": 0
+      },
+      {
+        "name": "actor_chick_6",
+        "type": "chick",
+        "index": 5,
+        "position": [
+          -0.09000000357627869,
+          0.4562980532646179,
+          2.240000009536743
+        ],
+        "rotation": [
+          0,
+          0.1000000002053869,
+          0,
+          "XYZ"
+        ],
+        "peck": 0
+      },
+      {
+        "name": "actor_duck_1",
+        "type": "duck",
+        "index": 0,
+        "position": [
+          3.0299182194622074,
+          0.33395058861846927,
+          2.7416767523171353
+        ],
+        "rotation": [
+          0,
+          -0.05605096289229327,
+          0.011762693673456545,
+          "XYZ"
+        ],
+        "peck": 0
+      },
+      {
+        "name": "actor_duck_2",
+        "type": "duck",
+        "index": 1,
+        "position": [
+          3.36617783339444,
+          0.33113594353383463,
+          4.227539557255399
+        ],
+        "rotation": [
+          0,
+          -0.1884789725994945,
+          0.00435719816645002,
+          "XYZ"
+        ],
+        "peck": 0
+      },
+      {
+        "name": "actor_hen",
+        "type": "hen",
+        "index": 0,
+        "position": [
+          -2,
+          0.45175740122795105,
+          2.869999885559082
+        ],
+        "rotation": [
+          0,
+          0.5500001788643942,
+          0,
+          "XYZ"
+        ],
+        "peck": 1.43
+      }
+    ],
+    "movingGroups": 18
+  }
+}

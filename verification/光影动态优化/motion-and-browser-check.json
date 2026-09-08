@@ -1,0 +1,35 @@
+{
+  "metrics": {
+    "minBank": 0.051376437770408456,
+    "minEnd": 0.24125093426778843,
+    "minDistance": 0.8922453686237016,
+    "maxStep": 0.005653704900379302,
+    "maxHeading": 0.12797610406522586,
+    "loopErrors": [
+      0,
+      4.440892098500626e-16
+    ],
+    "simulatedSeconds": 1833,
+    "wallSeconds": 3.0009000000953674,
+    "sceneSeconds": 2.949999999999999,
+    "actors": 9,
+    "movingGroups": 46
+  },
+  "pauseHolds": true,
+  "zoom": 2.2736362373078207,
+  "errors": [],
+  "localOnly": true,
+  "checks": [
+    "complete 1833s joint duck cycle",
+    "bounded sampled duck geometry",
+    "loop seams",
+    "ordered pose images",
+    "10s actual canvas recording",
+    "pause/resume",
+    "orbit/zoom",
+    "preset transitions",
+    "portrait resize",
+    "save PNG",
+    "still/live switch"
+  ]
+}

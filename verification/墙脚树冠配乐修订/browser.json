@@ -1,0 +1,12 @@
+{
+  "errors": [],
+  "sound": {
+    "src": "http://127.0.0.1:8769/preview/audio/pei-yue-final.m4a",
+    "duration": 298.120998,
+    "currentTime": 2.857321,
+    "ready": 4,
+    "paused": false
+  },
+  "muted": true,
+  "learn": true
+}

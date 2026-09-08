@@ -1,0 +1,18 @@
+00:00.592  blend            | Read blend: "/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/竹溪小院.blend"
+00:56.611  render           | Saved: '/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/renders/竹溪小院_主视角.png'
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+Info: Saved as "竹溪小院.blend"
+HERO_COMPLETE
+01:14.662  render           | Saved: '/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/renders/竹溪小院_瓜架近景.png'
+竹溪小院_瓜架近景 COMPLETE
+01:32.643  render           | Saved: '/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/renders/竹溪小院_溪桥近景.png'
+竹溪小院_溪桥近景 COMPLETE
+01:46.532  render           | Saved: '/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/verification/背面结构检查.png'
+背面结构检查 COMPLETE
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

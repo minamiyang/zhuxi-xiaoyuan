@@ -1,0 +1,162 @@
+00:00.539  blend            | Read blend: "/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/竹溪小院.blend"
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+evaluated 0
+evaluated 300
+evaluated 600
+evaluated 900
+evaluated 1200
+evaluated 1500
+evaluated 1800
+evaluated 2100
+EXPORT GROUPS 67
+/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_参考图精细沙盘_20260908/source/export_preview.py:59: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  old=ma.node_tree.nodes.get('Principled BSDF') if ma.use_nodes else None
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+15:56:04 | INFO: Starting glTF 2.0 export
+15:56:04 | INFO: Extracting primitive: Cube
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 室内地面.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 门槛.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 筒瓦_-1_00.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 筒瓦_-1_01.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 窗边框.004
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 石质窗台.002
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 灰泥不规则风化.046
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 墙脚前砌石.016
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 门檐拼板.013
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: Cone.612
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 悬垂丝瓜 00.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 瓜皮纵棱
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 掌状瓜叶 2.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 攀缘藤
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 拱券石_00_0.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 榆叶原型 0.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 榆叶原型 1.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 榆叶原型 2.001
+15:56:04 | INFO: Primitives created: 1
+15:56:04 | INFO: Extracting primitive: 榆叶原型 3.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 榆叶原型 4.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 榆叶原型 5.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 树皮纵向沟脊
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 竹秆 左竹
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 主干 · 起伏收径
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 方桌榫接腿.004
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: Sphere.274
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 小方凳面.003
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 竹篮胎.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 瓷盘.003
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: Sphere.427
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 带盖粗陶罐.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 草叶 0.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 草叶 1.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 草叶 2.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 草叶 3.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 草叶 4.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: 草叶 5.001
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: Sphere.474
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: Cone.1193
+15:56:05 | INFO: Primitives created: 1
+15:56:05 | INFO: Extracting primitive: Sphere.780
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 母鸡 · 弧形尾羽
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Sphere.712
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Sphere.713
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Sphere.724
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 鸭后涟漪
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Sphere.743
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Sphere.717
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Sphere.714
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Sphere.828
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Sphere.834
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 凤仙花瓣 0.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 凤仙花瓣 1.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 凤仙花瓣 2.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 完整展示底座.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Cone.609
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 掌状瓜叶 0.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 掌状瓜叶 1.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 掌状瓜叶 4.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 掌状瓜叶 5.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Cone.622
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Icosphere.002
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 石灰墙体 · 山墙一体.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Icosphere.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 蜿蜒溪水 · 有厚度水体.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: 连通地形 · 溪床下切.001
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Torus.002
+15:56:06 | INFO: Primitives created: 1
+15:56:06 | INFO: Extracting primitive: Torus.003
+15:56:06 | INFO: Primitives created: 1
+15:56:07 | INFO: Finished glTF 2.0 export in 2.4823789596557617 s
+
+EXPORT_DONE {"invalid_positions": [], "invalid_normals": [], "zero_normals": [], "objects": 2161, "external_images": [], "thin_sheets": ["leaves", "flower petals", "grass"], "note": "水为有厚度曲面；房屋Boolean保持在原始blend；导出副本展开实例并使用自制便携纹理。", "export_objects": 67, "vertices": 2937386, "faces": 2527853}
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

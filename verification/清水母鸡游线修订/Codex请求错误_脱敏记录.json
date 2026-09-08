@@ -1,0 +1,65 @@
+[
+  {
+    "time": "2026-09-08T17:15:57+08:00",
+    "source": "codex_core::client",
+    "event": "Fallback to HTTP"
+  },
+  {
+    "time": "2026-09-08T17:15:48+08:00",
+    "source": "codex_core::responses_retry",
+    "event": "Server closed WebSocket before response completion",
+    "retry": 5
+  },
+  {
+    "time": "2026-09-08T17:15:40+08:00",
+    "source": "codex_core::responses_retry",
+    "event": "Server closed WebSocket before response completion",
+    "retry": 4
+  },
+  {
+    "time": "2026-09-08T17:15:32+08:00",
+    "source": "codex_core::responses_retry",
+    "event": "Server closed WebSocket before response completion",
+    "retry": 3
+  },
+  {
+    "time": "2026-09-08T17:15:24+08:00",
+    "source": "codex_core::responses_retry",
+    "event": "Server closed WebSocket before response completion",
+    "retry": 2
+  },
+  {
+    "time": "2026-09-08T17:15:14+08:00",
+    "source": "codex_core::responses_retry",
+    "event": "Server closed WebSocket before response completion",
+    "retry": 1
+  },
+  {
+    "time": "2026-09-08T17:14:54+08:00",
+    "source": "codex_http_client::client",
+    "event": "HTTP 400 Bad Request",
+    "request_id": "01a82934-72fc-423e-8373-6a51ea96ab48",
+    "endpoint": "https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "time": "2026-09-08T17:14:29+08:00",
+    "source": "codex_http_client::client",
+    "event": "HTTP 400 Bad Request",
+    "request_id": "ed5dffe5-934d-48b8-a4c0-6e673adc01e8",
+    "endpoint": "https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "time": "2026-09-08T16:54:33+08:00",
+    "source": "codex_http_client::client",
+    "event": "HTTP 400 Bad Request",
+    "request_id": "c988351f-e69b-4f95-9bf2-44033170d030",
+    "endpoint": "https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "time": "2026-09-08T16:52:41+08:00",
+    "source": "codex_http_client::client",
+    "event": "HTTP 400 Bad Request",
+    "request_id": "c98f7c04-f4d8-49c7-b043-698f0c287656",
+    "endpoint": "https://chatgpt.com/backend-api/codex/responses"
+  }
+]

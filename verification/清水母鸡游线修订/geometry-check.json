@@ -1,0 +1,16 @@
+{
+  "invalid_positions": [],
+  "invalid_normals": [],
+  "zero_normals": [],
+  "objects": 2138,
+  "external_images": [],
+  "thin_sheets": [
+    "leaves",
+    "flower petals",
+    "grass"
+  ],
+  "note": "水为有厚度曲面；房屋Boolean保持在原始blend；导出副本展开实例并使用自制便携纹理。",
+  "export_objects": 150,
+  "vertices": 2779183,
+  "faces": 2694134
+}

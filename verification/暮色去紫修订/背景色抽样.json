@@ -1,0 +1,56 @@
+[
+  {
+    "hour": 17.3,
+    "backgroundRGB": [
+      133,
+      109,
+      100
+    ],
+    "lumaProxy": 113.45
+  },
+  {
+    "hour": 17.8,
+    "backgroundRGB": [
+      101,
+      111,
+      122
+    ],
+    "lumaProxy": 109.67
+  },
+  {
+    "hour": 18.3,
+    "backgroundRGB": [
+      79,
+      98,
+      121
+    ],
+    "lumaProxy": 95.62
+  },
+  {
+    "hour": 18.7,
+    "backgroundRGB": [
+      65,
+      85,
+      110
+    ],
+    "lumaProxy": 82.55
+  },
+  {
+    "hour": 19.2,
+    "backgroundRGB": [
+      47,
+      68,
+      96
+    ],
+    "lumaProxy": 65.56
+  },
+  {
+    "hour": 20.3,
+    "backgroundRGB": [
+      33,
+      46,
+      70
+    ],
+    "lumaProxy": 44.97
+  }
+]

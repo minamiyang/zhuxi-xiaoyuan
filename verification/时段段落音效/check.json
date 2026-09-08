@@ -1,0 +1,310 @@
+{
+  "errors": [],
+  "decoded": [
+    {
+      "id": "morning",
+      "target": 0.34,
+      "gain": 0.9160284996032715,
+      "loaded": true,
+      "duration": 41.260083333333334,
+      "rms": 0.003072272622078451,
+      "peak": 0.05335336923599243,
+      "normalization": 3.5
+    },
+    {
+      "id": "wind",
+      "target": 0.13,
+      "gain": 0.16037815809249878,
+      "loaded": true,
+      "duration": 117.48,
+      "rms": 0.06375988165730187,
+      "peak": 0.5615678429603577,
+      "normalization": 1.602655870135949
+    },
+    {
+      "id": "hen",
+      "target": 0,
+      "gain": 0,
+      "loaded": true,
+      "duration": 17.317,
+      "rms": 0.018712569468318126,
+      "peak": 0.20666293799877167,
+      "normalization": 3.5
+    },
+    {
+      "id": "chicks",
+      "target": 0,
+      "gain": 0,
+      "loaded": true,
+      "duration": 12.911291666666667,
+      "rms": 0.06923306533861003,
+      "peak": 0.8515610694885254,
+      "normalization": 1.0568825093666725
+    },
+    {
+      "id": "ducks",
+      "target": 0,
+      "gain": 0,
+      "loaded": true,
+      "duration": 9.192958333333333,
+      "rms": 0.06913986033686147,
+      "peak": 0.529938280582428,
+      "normalization": 1.6983109788008826
+    },
+    {
+      "id": "wash",
+      "target": 0,
+      "gain": 0,
+      "loaded": true,
+      "duration": 61.52095833333333,
+      "rms": 0.021678859040765396,
+      "peak": 0.969876766204834,
+      "normalization": 0.927952943466968
+    },
+    {
+      "id": "evening",
+      "target": 0,
+      "gain": 0,
+      "loaded": true,
+      "duration": 165.09283333333335,
+      "rms": 0.006207832484050606,
+      "peak": 0.08500172942876816,
+      "normalization": 3.5
+    },
+    {
+      "id": "night",
+      "target": 0,
+      "gain": 0,
+      "loaded": true,
+      "duration": 7.25075,
+      "rms": 0.043646601310532045,
+      "peak": 0.32187116146087646,
+      "normalization": 2.796149850502824
+    }
+  ],
+  "failures": [],
+  "hours": [
+    {
+      "hour": 6.5,
+      "active": [
+        "morning",
+        "wind"
+      ]
+    },
+    {
+      "hour": 9,
+      "active": [
+        "morning",
+        "wind",
+        "hen",
+        "chicks"
+      ]
+    },
+    {
+      "hour": 14,
+      "active": [
+        "wind",
+        "ducks",
+        "wash"
+      ]
+    },
+    {
+      "hour": 18,
+      "active": [
+        "wind",
+        "evening"
+      ]
+    },
+    {
+      "hour": 22,
+      "active": [
+        "wind",
+        "night"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "index": 1,
+      "sentence": 1,
+      "active": [
+        "wind"
+      ]
+    },
+    {
+      "index": 3,
+      "sentence": 0,
+      "active": [
+        "hen",
+        "chicks"
+      ]
+    },
+    {
+      "index": 4,
+      "sentence": 0,
+      "active": [
+        "ducks"
+      ]
+    },
+    {
+      "index": 4,
+      "sentence": 1,
+      "active": [
+        "ducks",
+        "wash"
+      ]
+    },
+    {
+      "index": 5,
+      "sentence": 0,
+      "active": [
+        "wind",
+        "evening"
+      ]
+    },
+    {
+      "index": 6,
+      "sentence": 0,
+      "active": [
+        "night"
+      ]
+    }
+  ],
+  "playback": {
+    "sfx": {
+      "context": "running",
+      "muted": false,
+      "failures": [],
+      "input": {
+        "mode": "learn",
+        "hour": 19.747750535945144,
+        "lesson": {
+          "index": 6,
+          "elapsed": 3,
+          "playing": false,
+          "speed": 1,
+          "ended": false,
+          "progress": 0.09029126213592233,
+          "sentence": 0,
+          "title": "月夜入梦",
+          "shot": {
+            "p": [
+              -10,
+              7,
+              10
+            ],
+            "t": [
+              -2.8,
+              2,
+              1
+            ],
+            "zoom": 2.1
+          },
+          "hour": 20.408349514563106,
+          "duration": 33.225806451612904
+        }
+      },
+      "tracks": [
+        {
+          "id": "morning",
+          "target": 0,
+          "gain": 0.04516240581870079,
+          "loaded": true,
+          "duration": 41.260083333333334,
+          "rms": 0.003072272622078451,
+          "peak": 0.05335336923599243,
+          "normalization": 3.5
+        },
+        {
+          "id": "wind",
+          "target": 0.055,
+          "gain": 0.11773932725191116,
+          "loaded": true,
+          "duration": 117.48,
+          "rms": 0.06375988165730187,
+          "peak": 0.5615678429603577,
+          "normalization": 1.602655870135949
+        },
+        {
+          "id": "hen",
+          "target": 0,
+          "gain": 0.02209627255797386,
+          "loaded": true,
+          "duration": 17.317,
+          "rms": 0.018712569468318126,
+          "peak": 0.20666293799877167,
+          "normalization": 3.5
+        },
+        {
+          "id": "chicks",
+          "target": 0,
+          "gain": 0.005009019281715155,
+          "loaded": true,
+          "duration": 12.911291666666667,
+          "rms": 0.06923306533861003,
+          "peak": 0.8515610694885254,
+          "normalization": 1.0568825093666725
+        },
+        {
+          "id": "ducks",
+          "target": 0,
+          "gain": 0.03699279576539993,
+          "loaded": true,
+          "duration": 9.192958333333333,
+          "rms": 0.06913986033686147,
+          "peak": 0.529938280582428,
+          "normalization": 1.6983109788008826
+        },
+        {
+          "id": "wash",
+          "target": 0,
+          "gain": 0.018617937341332436,
+          "loaded": true,
+          "duration": 61.52095833333333,
+          "rms": 0.021678859040765396,
+          "peak": 0.969876766204834,
+          "normalization": 0.927952943466968
+        },
+        {
+          "id": "evening",
+          "target": 0,
+          "gain": 0.050227224826812744,
+          "loaded": true,
+          "duration": 165.09283333333335,
+          "rms": 0.006207832484050606,
+          "peak": 0.08500172942876816,
+          "normalization": 3.5
+        },
+        {
+          "id": "night",
+          "target": 0.44,
+          "gain": 0.9816223382949829,
+          "loaded": true,
+          "duration": 7.25075,
+          "rms": 0.043646601310532045,
+          "peak": 0.32187116146087646,
+          "normalization": 2.796149850502824
+        }
+      ]
+    },
+    "music": {
+      "paused": false,
+      "volume": 0.16,
+      "time": 9.041352
+    }
+  },
+  "closed": true,
+  "layout": {
+    "overflow": false,
+    "button": {
+      "x": 304,
+      "y": 81,
+      "width": 70,
+      "height": 36,
+      "top": 81,
+      "right": 374,
+      "bottom": 117,
+      "left": 304
+    }
+  }
+}

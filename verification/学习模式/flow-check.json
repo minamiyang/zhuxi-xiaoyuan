@@ -1,0 +1,30 @@
+{
+  "errors": [],
+  "autoplay": {
+    "state": {
+      "muted": false,
+      "blocked": false,
+      "paused": false,
+      "suspended": false
+    },
+    "time": 15.442735,
+    "duration": 304.711781,
+    "ready": 4
+  },
+  "integrity": {
+    "exact": true,
+    "totalSeconds": 249.51612903225805,
+    "count": 8
+  },
+  "advanced": 1,
+  "speed": 1.2,
+  "ended": {
+    "ended": true,
+    "playing": false,
+    "index": 7
+  },
+  "replay": {
+    "index": 0,
+    "playing": true
+  }
+}

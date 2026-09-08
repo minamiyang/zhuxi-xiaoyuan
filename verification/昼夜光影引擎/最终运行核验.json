@@ -1,0 +1,63 @@
+{
+  "errors": [],
+  "external": [],
+  "audit": {
+    "samples": 1441,
+    "maxStep": {
+      "day": 0.021787582168656616,
+      "high": 0.008422767242432683,
+      "warm": 0.021787582168656616,
+      "sunPower": 0.3061560720095831,
+      "lamps": 0.027264559883385164,
+      "moonPower": 0.013944052587940237,
+      "fog": 0.0011370676785898148,
+      "exposure": 0.0013072549301194059
+    },
+    "loopError": [
+      [
+        "day",
+        0
+      ],
+      [
+        "high",
+        0
+      ],
+      [
+        "warm",
+        0
+      ],
+      [
+        "sunPower",
+        0
+      ],
+      [
+        "lamps",
+        0
+      ],
+      [
+        "moonPower",
+        0
+      ],
+      [
+        "fog",
+        0
+      ],
+      [
+        "exposure",
+        0
+      ]
+    ],
+    "finite": true,
+    "runtime": {
+      "elapsedScene": 3.499835999999998,
+      "hourAdvance": 0.6966271999999982,
+      "expectedAdvance": 0.6999671999999996
+    },
+    "pauseStable": true,
+    "sliderHour": 21,
+    "stillPanelHidden": true,
+    "deterministicFrame": true,
+    "download": "竹溪小院.png",
+    "mobileOverflow": false
+  }
+}
