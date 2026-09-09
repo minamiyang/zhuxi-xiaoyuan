@@ -1,0 +1,818 @@
+{
+  "identity": {
+    "id": "courtyard-optimization-20260908-v12",
+    "role": "优化工作副本",
+    "root": "/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_优化交接_20260908/优化工作副本"
+  },
+  "refinement": {
+    "leaves": [
+      {
+        "name": "掌叶攀覆_0001",
+        "leaves": 35,
+        "maxMove": 0.0610637148626266
+      },
+      {
+        "name": "掌叶攀覆_1001",
+        "leaves": 49,
+        "maxMove": 0.061121848231276414
+      },
+      {
+        "name": "掌叶攀覆_2001",
+        "leaves": 35,
+        "maxMove": 0.05808789115899053
+      },
+      {
+        "name": "掌叶攀覆_4001",
+        "leaves": 39,
+        "maxMove": 0.05931107322614506
+      },
+      {
+        "name": "掌叶攀覆_5001",
+        "leaves": 51,
+        "maxMove": 0.060303941467798425
+      }
+    ],
+    "birds": 52,
+    "materials": [
+      "05_·_老树树皮",
+      "wind_tree_branch_·_老树树皮",
+      "石灰墙体_·_山墙一体001"
+    ]
+  },
+  "materials": [
+    {
+      "name": "02A_·_瓦口磨损",
+      "pieces": 410,
+      "kept": 410,
+      "trianglesBefore": 80048,
+      "trianglesAfter": 80048
+    },
+    {
+      "name": "02A_·_青灰筒瓦_·_陶土微孔",
+      "pieces": 816,
+      "kept": 816,
+      "trianglesBefore": 140384,
+      "trianglesAfter": 140384
+    },
+    {
+      "name": "04_·_桥石_·_暖灰石灰岩",
+      "pieces": 45,
+      "kept": 45,
+      "trianglesBefore": 68520,
+      "trianglesAfter": 68520
+    },
+    {
+      "name": "树根半埋石001",
+      "pieces": 41,
+      "kept": 41,
+      "trianglesBefore": 15006,
+      "trianglesAfter": 15006
+    },
+    {
+      "name": "浅溪透视河床石001",
+      "pieces": 150,
+      "kept": 150,
+      "trianglesBefore": 54900,
+      "trianglesAfter": 54900
+    },
+    {
+      "name": "砾石与溪岸卵石001",
+      "pieces": 934,
+      "kept": 442,
+      "trianglesBefore": 341844,
+      "trianglesAfter": 161772
+    },
+    {
+      "name": "细碎土粒001",
+      "pieces": 5277,
+      "kept": 1546,
+      "trianglesBefore": 105540,
+      "trianglesAfter": 30920
+    },
+    {
+      "name": "草丛高低层_0001",
+      "pieces": 1433,
+      "kept": 780,
+      "trianglesBefore": 27227,
+      "trianglesAfter": 14820
+    },
+    {
+      "name": "草丛高低层_4001",
+      "pieces": 1385,
+      "kept": 750,
+      "trianglesBefore": 26315,
+      "trianglesAfter": 14250
+    },
+    {
+      "name": "草丛高低层_5001",
+      "pieces": 1340,
+      "kept": 744,
+      "trianglesBefore": 25460,
+      "trianglesAfter": 14136
+    }
+  ],
+  "geometry": {
+    "changed": 9,
+    "errors": []
+  },
+  "controls": {
+    "orbit": true,
+    "zoom": true,
+    "pan": true
+  },
+  "day": {
+    "samples": 12001,
+    "hourStep": 0.002,
+    "maxStep": 0.013543246054586788,
+    "seam": true
+  },
+  "liveAnimation": {
+    "timeDelta": 2.53333999999999,
+    "hourDelta": 0.2533339999999953
+  },
+  "lesson": {
+    "count": 8,
+    "exact": true,
+    "seconds": 249.51612903225805,
+    "ended": true
+  },
+  "visibility": {
+    "method": "simulated visibility lifecycle",
+    "hidden": {
+      "musicPaused": true,
+      "ambience": "suspended"
+    },
+    "restored": {
+      "musicPaused": false,
+      "ambience": "running"
+    }
+  },
+  "rooster": {
+    "before": {
+      "id": "rooster",
+      "target": 0,
+      "gain": 0,
+      "loaded": true,
+      "duration": 7.546083333333334,
+      "rms": 0.03542145570882399,
+      "peak": 0.3491925001144409,
+      "normalization": 3.3877771988378864,
+      "oneShot": true,
+      "active": false,
+      "pending": false,
+      "playCount": 0
+    },
+    "trigger": {
+      "id": "rooster",
+      "target": 0.38,
+      "gain": 1.245322585105896,
+      "loaded": true,
+      "duration": 7.546083333333334,
+      "rms": 0.03542145570882399,
+      "peak": 0.3491925001144409,
+      "normalization": 3.3877771988378864,
+      "oneShot": true,
+      "active": true,
+      "pending": false,
+      "playCount": 1
+    },
+    "afterEnd": {
+      "id": "rooster",
+      "target": 0,
+      "gain": 1.2873553037643433,
+      "loaded": true,
+      "duration": 7.546083333333334,
+      "rms": 0.03542145570882399,
+      "peak": 0.3491925001144409,
+      "normalization": 3.3877771988378864,
+      "oneShot": true,
+      "active": false,
+      "pending": false,
+      "playCount": 1
+    },
+    "nextPass": {
+      "id": "rooster",
+      "target": 0.38,
+      "gain": 1.2873553037643433,
+      "loaded": true,
+      "duration": 7.546083333333334,
+      "rms": 0.03542145570882399,
+      "peak": 0.3491925001144409,
+      "normalization": 3.3877771988378864,
+      "oneShot": true,
+      "active": true,
+      "pending": false,
+      "playCount": 2
+    }
+  },
+  "audio": {
+    "volume": 0.26,
+    "loop": true,
+    "duration": 298.120998,
+    "ambience": {
+      "context": "running",
+      "muted": false,
+      "failures": [],
+      "input": {
+        "mode": "explore",
+        "hour": 5.02,
+        "lesson": {
+          "index": 5,
+          "elapsed": 16,
+          "playing": false,
+          "speed": 1.2,
+          "ended": false,
+          "progress": 0.3844961240310078,
+          "sentence": 1,
+          "title": "门前晚饭",
+          "shot": {
+            "p": [
+              -0.4,
+              4.7,
+              8
+            ],
+            "t": [
+              0.4,
+              1.25,
+              0.95
+            ],
+            "zoom": 2.45
+          },
+          "hour": 17.230542635658914,
+          "duration": 41.61290322580645
+        }
+      },
+      "tracks": [
+        {
+          "id": "morning",
+          "target": 0,
+          "gain": 0.24870111048221588,
+          "loaded": true,
+          "duration": 41.260083333333334,
+          "rms": 0.003072272622078451,
+          "peak": 0.05335336923599243,
+          "normalization": 18,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "hen",
+          "target": 0,
+          "gain": 0,
+          "loaded": true,
+          "duration": 17.317,
+          "rms": 0.018712569468318126,
+          "peak": 0.20666293799877167,
+          "normalization": 6.412801844405686,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "chicks",
+          "target": 0,
+          "gain": 0,
+          "loaded": true,
+          "duration": 12.911291666666667,
+          "rms": 0.06923306533861003,
+          "peak": 0.8515610694885254,
+          "normalization": 1.7332758475028573,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "ducks",
+          "target": 0,
+          "gain": 0,
+          "loaded": true,
+          "duration": 9.192958333333333,
+          "rms": 0.06913986033686147,
+          "peak": 0.529938280582428,
+          "normalization": 1.7356124154046457,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "river",
+          "target": 0.14,
+          "gain": 0.7910603880882263,
+          "loaded": true,
+          "duration": 97.59583333333333,
+          "rms": 0.021212383311601735,
+          "peak": 0.2564890384674072,
+          "normalization": 5.6570729576797785,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "evening",
+          "target": 0,
+          "gain": 0.004155679140239954,
+          "loaded": true,
+          "duration": 165.09283333333335,
+          "rms": 0.006207832484050606,
+          "peak": 0.08500172942876816,
+          "normalization": 18,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "night",
+          "target": 0.19471266716754343,
+          "gain": 0.45127686858177185,
+          "loaded": true,
+          "duration": 7.25075,
+          "rms": 0.043646601310532045,
+          "peak": 0.32187116146087646,
+          "normalization": 2.749354964576444,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "rooster",
+          "target": 0.38,
+          "gain": 1.2873553037643433,
+          "loaded": true,
+          "duration": 7.546083333333334,
+          "rms": 0.03542145570882399,
+          "peak": 0.3491925001144409,
+          "normalization": 3.3877771988378864,
+          "oneShot": true,
+          "active": true,
+          "pending": false,
+          "playCount": 2
+        }
+      ]
+    }
+  },
+  "detailGeometry": {
+    "meshes": 326,
+    "vertices": 3802637,
+    "errors": [],
+    "zeros": [
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh",
+      "Scene/春笋 · 课文细节/Group/Mesh"
+    ]
+  },
+  "errors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:8770/preview/?v=14-workcopy",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/viewer-v2.js?v=14",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/audio/pei-yue-final.m4a",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/postprocessing/EffectComposer.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/loaders/DRACOLoader.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/build/three.module.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/postprocessing/RenderPass.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/postprocessing/SSAOPass.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/postprocessing/SMAAPass.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/postprocessing/UnrealBloomPass.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/daylight.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/postprocessing/OutputPass.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/water-v2.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/surface-v2.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/motion.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/hen-v3.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/music.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/soundscape.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/lesson-details.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/quality-v3.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/lesson.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/utils/BufferGeometryUtils.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/details-v14.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/shaders/CopyShader.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/postprocessing/ShaderPass.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/postprocessing/MaskPass.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/postprocessing/Pass.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/math/SimplexNoise.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/shaders/SSAOShader.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/shaders/SMAAShader.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/shaders/LuminosityHighPassShader.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/shaders/OutputShader.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/build/three.core.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/audio/ambience/chicks.mp3",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/audio/ambience/hen.mp3",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/audio/ambience/morning.mp3",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/audio/ambience/ducks.mp3",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/audio/ambience/river.mp3",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/audio/ambience/evening.mp3",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/audio/ambience/night.mp3",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/audio/ambience/rooster.mp3",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/%E7%AB%B9%E6%BA%AA%E5%B0%8F%E9%99%A2_%E5%8A%A8%E6%80%81.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/libs/draco/gltf/draco_wasm_wrapper.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.wasm",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/22a6f8a9-216d-436f-9e61-8b4ce6f3dc19",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/d46d0ce9-5681-4196-a247-9c76f9280d46",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/cba4b4b3-9f40-46a9-b8f7-942d4d0d7203",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/2515d313-02af-4ea9-b63d-f6bc33f9e88f",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/c9f41ea8-ab98-41df-a81c-f84ced0005a2",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/e498ea84-fe83-4988-8955-86d93f542436",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/6de8cb04-78a3-43e1-8af1-e4fcdd8b441a",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/a88689da-c58b-42c7-942a-82d45486b767",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/ecff3a8e-60f6-4f3d-b68c-40eb796a7ca4",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/e25c0be9-58c7-46d5-a51f-c6aa9db372fb",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/7e18c5ca-84be-43fe-9b3e-c6a6e6f0b97e",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/76b65f59-d755-4b03-beef-18f5fd57e416",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/cc449f17-dbd5-4b4d-a61e-f9a853fe43bd",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/39447bc8-2b59-42ee-b66c-21ceb6b747ef",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/fff56c43-e0a4-4e3b-be6b-c2ead36285bc",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/995fc42e-d02e-4939-bfe2-c8742ed65990",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/2e228052-5a80-4369-9e6d-70d7b51d0de7",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/9815b671-eb56-4a27-9dc5-6297af856499",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/61f7dbd4-5b37-46e8-b579-023f77968daf",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/1b152713-f8c6-4ae2-8e6b-d290c7814c60",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/4edec2a1-8ff7-4e9e-a0c6-5bf609a20b7d",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/33b70f3e-71fb-4c8d-87cb-ea130e9f6ee1",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/a1747ec7-0fd1-4c6b-b66a-d2be46b5bc58",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/78beb92d-c2a5-4713-bb04-bf67d7f8aa61",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/1a57c0f4-8e08-40b0-a6ba-8f92bb6fb8d8",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/bf802de7-8d7c-4fb6-bd55-ab182923842d",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/f91463dd-f681-490e-9257-a9913351a4ee",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/61f4809d-ccf0-46e4-845c-4c2f2006fabf",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/0a1fd634-0d82-4092-8843-21cff5881382",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/5371735b-2804-4d38-843e-ab9953aeb5fe",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/bd4c7c2d-ff4e-45a6-8919-eb31803bad76",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/c761f071-edc8-4c49-8a77-5ae6d1ede2bc",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/969bb3c0-ea50-419c-849f-1f5e96967f6c",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/efa5e50a-6eb8-40f8-953a-95f8f17ab633",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/bc8eb89a-cb14-457c-a834-4b3dca533c07",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/09e5c490-e45b-41cc-ae65-ca8eafb3dbb0",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/7241e784-db0c-485c-91da-0309f944509f",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/389be8cd-ffe2-4d6b-910c-d6cd25032d1f",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/ddd79efe-c7e0-462d-8761-2bf32e7003b1",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/80e8ed25-42ef-4594-85bd-7b0f8cbe193e",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/4666b39a-072a-4122-b548-5c1a8a721f8a",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/d05dea2b-67fe-44a5-a142-5bcd33159c1e",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/497953b8-4abb-42b7-9403-83b4ac1e6219",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/497953b8-4abb-42b7-9403-83b4ac1e6219",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/497953b8-4abb-42b7-9403-83b4ac1e6219",
+      "status": 200
+    },
+    {
+      "url": "blob:http://127.0.0.1:8770/497953b8-4abb-42b7-9403-83b4ac1e6219",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8770/preview/workcopy-id.json",
+      "status": 200
+    }
+  ]
+}

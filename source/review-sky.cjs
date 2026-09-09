@@ -1,0 +1,8 @@
+const {chromium}=require('playwright'),fs=require('fs');
+const dir=process.argv[3]||'verification/天空昼夜_20260909',phase=process.argv[2]||'draft';
+(async()=>{const b=await chromium.launch({channel:'chrome',headless:true,args:['--autoplay-policy=no-user-gesture-required']}),p=await b.newPage({viewport:{width:1440,height:1000}}),errors=[];p.on('pageerror',e=>errors.push(e.message));p.on('console',m=>{if(m.type()==='error')errors.push(m.text())});await p.goto('http://127.0.0.1:8770/preview/?v=sky-'+phase);await p.waitForFunction(()=>window.sceneReady,null,{timeout:120000});
+const hero={position:[-13.8,12.4,15],target:[0,1.95,0],zoom:1};const states=[];
+for(const [name,hour]of [['morning',8],['noon',12],['sunset',17.6],['night',21]]){await p.evaluate(s=>viewer.seekFrame({seconds:9,...s}),{hour,camera:hero});await p.screenshot({path:`${dir}/${phase}-${name}.png`});states.push(await p.evaluate(()=>viewer.storySky.state));}
+await p.evaluate(()=>viewer.seekFrame({seconds:9,hour:21,camera:{position:[8,7,-12],target:[0,1.95,0],zoom:1}}));await p.screenshot({path:`${dir}/${phase}-reverse.png`});
+await p.evaluate(()=>viewer.seekFrame({seconds:9,hour:11,camera:{position:[8.5,6.8,8],target:[3.35,1,.2],zoom:2.35}}));await p.screenshot({path:`${dir}/${phase}-near.png`});
+await p.setViewportSize({width:390,height:844});await p.evaluate(s=>viewer.seekFrame({seconds:9,hour:21,camera:s}),hero);await p.screenshot({path:`${dir}/${phase}-mobile.png`});fs.writeFileSync(`${dir}/${phase}-check.json`,JSON.stringify({errors,states},null,2));console.log(JSON.stringify({errors,states}));await b.close();})();

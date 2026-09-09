@@ -1,0 +1,29 @@
+{
+  "errors": [],
+  "states": [
+    {
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.2157456680057299,
+      "seconds": 9
+    },
+    {
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.5376769222363873,
+      "seconds": 9
+    },
+    {
+      "day": 0.7606325099274445,
+      "detail": 1,
+      "sunX": 0.85,
+      "seconds": 9
+    },
+    {
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.8108160100675443,
+      "seconds": 9
+    }
+  ]
+}

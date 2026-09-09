@@ -1,0 +1,15 @@
+const {chromium}=require('playwright'),fs=require('fs'),assert=require('assert');
+const dir=process.argv[2]||'verification/天空昼夜_20260909';
+(async()=>{const b=await chromium.launch({channel:'chrome',headless:true,args:['--autoplay-policy=no-user-gesture-required']}),p=await b.newPage({viewport:{width:1440,height:1000}}),errors=[],badResponses=[];
+p.on('pageerror',e=>errors.push(e.message));p.on('console',m=>{if(m.type()==='error')errors.push(m.text())});p.on('response',r=>{if(r.status()>=400)badResponses.push(r.url())});
+await p.goto('http://127.0.0.1:8770/preview/?v=17-final');await p.waitForFunction(()=>window.sceneReady,null,{timeout:120000});
+const hero={position:[-13.8,12.4,15],target:[0,1.95,0],zoom:1};
+const hours=[];for(const h of [0,5.5,6.35,8,12,17.6,18.3,19,21,23.999])hours.push(await p.evaluate(({h,hero})=>{viewer.seekFrame({seconds:9,hour:h,camera:hero});return {hour:h,...viewer.storySky.state};},{h,hero}));
+assert(hours.every(s=>Object.values(s).flat().every(Number.isFinite)));assert.equal(hours.find(s=>s.hour===12).day,1);assert.equal(hours.find(s=>s.hour===21).day,0);
+await p.evaluate(s=>{viewer.seekFrame({seconds:9,hour:21,camera:s});viewer.setPlaying(true);},hero);
+const running=[];for(let i=0;i<2;i++){await p.waitForTimeout(1200);running.push(await p.evaluate(()=>viewer.storySky.state));await p.screenshot({path:`${dir}/running-night-${i}.png`});}assert(running[1].seconds>running[0].seconds);await p.evaluate(()=>viewer.setPlaying(false));
+await p.click('#learn');await p.waitForTimeout(800);assert.equal(await p.evaluate(()=>viewer.state.mode),'learn');await p.setViewportSize({width:900,height:700});await p.waitForTimeout(300);await p.screenshot({path:`${dir}/learning.png`});await p.click('#explore');assert.equal(await p.evaluate(()=>viewer.state.mode),'explore');
+await p.setViewportSize({width:1440,height:1000});
+const checks=await p.evaluate(()=>{const sky=viewer.storySky.mesh,g=sky.geometry;let invalid=0;for(const key of ['position','normal'])for(const v of g.attributes[key].array)if(!Number.isFinite(v))invalid++;return {invalid,inReflectionExclusions:viewer.stream().excluded.includes(sky),skyInstances:viewer.scene.children.filter(o=>o.name==='绘本天空 · 日月云星').length,failedPrograms:viewer.renderer.info.programs.filter(p=>p.diagnostics?.runnable===false).length};});
+assert.equal(checks.invalid,0);assert.equal(checks.skyInstances,1);assert(checks.inReflectionExclusions);assert.equal(checks.failedPrograms,0);assert.deepEqual(errors,[]);assert.deepEqual(badResponses,[]);
+fs.writeFileSync(`${dir}/functional-check.json`,JSON.stringify({hours,running,checks,errors,badResponses,modes:true,resize:true},null,2));console.log(JSON.stringify({passed:true,checks,errors,badResponses,running}));await b.close();})().catch(e=>{console.error(e);process.exit(1)});

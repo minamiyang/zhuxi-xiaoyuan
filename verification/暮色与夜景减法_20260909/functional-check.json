@@ -1,0 +1,330 @@
+{
+  "samples": [
+    {
+      "hour": 0,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.5029587181905236,
+      "moon": [
+        0.6200061103924677,
+        0.91
+      ],
+      "dusk": 0,
+      "sunVisible": 0,
+      "moonVisible": 1,
+      "starsVisible": 1,
+      "seconds": 9
+    },
+    {
+      "hour": 5.4,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.21262318591049553,
+      "moon": [
+        0.3680061103924678,
+        0.7665938590568393
+      ],
+      "dusk": 0,
+      "sunVisible": 0,
+      "moonVisible": 1,
+      "starsVisible": 1,
+      "seconds": 9
+    },
+    {
+      "hour": 5.72,
+      "day": 0.022453384941192363,
+      "detail": 1,
+      "sunX": 0.20979353875642462,
+      "moon": [
+        0.3530727770591343,
+        0.7524504935116975
+      ],
+      "dusk": 0,
+      "sunVisible": 0,
+      "moonVisible": 0,
+      "starsVisible": 0.9775466150588077,
+      "seconds": 9
+    },
+    {
+      "hour": 6.1,
+      "day": 0.381886258735981,
+      "detail": 1,
+      "sunX": 0.2073959696819165,
+      "moon": [
+        0.3353394437258008,
+        0.7355499187876615
+      ],
+      "dusk": 0,
+      "sunVisible": 0.7840000000000036,
+      "moonVisible": 0,
+      "starsVisible": 0.618113741264019,
+      "seconds": 9
+    },
+    {
+      "hour": 12,
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.5376769222363872,
+      "moon": [
+        1.1800061103924677,
+        0.57
+      ],
+      "dusk": 0,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 16,
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.8248899724211809,
+      "moon": [
+        0.9933394437258011,
+        0.655
+      ],
+      "dusk": 0.17965372238564323,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 17,
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.9466727770591343,
+        0.6960007623325715
+      ],
+      "dusk": 0.9061654788462671,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 17.6,
+      "day": 0.7606325099274445,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.9186727770591343,
+        0.722230161244499
+      ],
+      "dusk": 1,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 18.2,
+      "day": 0.06770751073725963,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.8906727770591343,
+        0.7488971125613005
+      ],
+      "dusk": 1,
+      "sunVisible": 0.7839999999999946,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 18.55,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.8743394437258012,
+        0.7643937457385004
+      ],
+      "dusk": 0.9362767410104711,
+      "sunVisible": 0,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 18.65,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.8696727770591344,
+        0.7687894156543341
+      ],
+      "dusk": 0.8648156577150679,
+      "sunVisible": 0,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 19,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.8533394437258011,
+        0.7839992376674285
+      ],
+      "dusk": 0.5,
+      "sunVisible": 0,
+      "moonVisible": 0.4067382812500021,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 19.65,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.8230061103924677,
+        0.8111721553813627
+      ],
+      "dusk": 0,
+      "sunVisible": 0,
+      "moonVisible": 1,
+      "starsVisible": 0.6309790352126996,
+      "seconds": 9
+    },
+    {
+      "hour": 21,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.8108160100675443,
+      "moon": [
+        0.7600061103924677,
+        0.860208152801713
+      ],
+      "dusk": 0,
+      "sunVisible": 0,
+      "moonVisible": 1,
+      "starsVisible": 1,
+      "seconds": 9
+    },
+    {
+      "hour": 23.999,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.6030356753242826,
+      "moon": [
+        0.6200527770591345,
+        0.9099999941741919
+      ],
+      "dusk": 0,
+      "sunVisible": 0,
+      "moonVisible": 1,
+      "starsVisible": 1,
+      "seconds": 9
+    }
+  ],
+  "running": [
+    {
+      "wall": 0.568,
+      "hour": 16.439989999999995,
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.8468099231471531,
+      "moon": [
+        0.9728065770591346,
+        0.6724844501373999
+      ],
+      "dusk": 0.5121529901077481,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9.399900000000002
+    },
+    {
+      "wall": 5.263,
+      "hour": 16.909969999999994,
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.9508741770591347,
+        0.6921430065071379
+      ],
+      "dusk": 0.857189319547672,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 14.099699999999961
+    },
+    {
+      "wall": 9.986,
+      "hour": 17.384959999999992,
+      "day": 0.9521495725501145,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.9287079770591348,
+        0.7127452211660713
+      ],
+      "dusk": 1,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 18.849599999999914
+    },
+    {
+      "wall": 14.742,
+      "hour": 17.858269999999983,
+      "day": 0.4356407188308669,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.9066201770591351,
+        0.7336936266719407
+      ],
+      "dusk": 1,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 23.58269999999986
+    },
+    {
+      "wall": 19.498,
+      "hour": 18.334919999999983,
+      "day": 0.005008267472638199,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.8843765103924685,
+        0.7548868222930594
+      ],
+      "dusk": 1,
+      "sunVisible": 0.3959213067438614,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 28.349199999999836
+    },
+    {
+      "wall": 24.23,
+      "hour": 18.806569999999986,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.862366177059135,
+        0.775630949027404
+      ],
+      "dusk": 0.7166001908542641,
+      "sunVisible": 0,
+      "moonVisible": 0.09991724641251289,
+      "starsVisible": 0,
+      "seconds": 33.065699999999886
+    }
+  ],
+  "errors": [],
+  "modes": true,
+  "mobile": true
+}

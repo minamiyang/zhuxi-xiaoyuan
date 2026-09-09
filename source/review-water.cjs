@@ -1,0 +1,7 @@
+const {chromium}=require('playwright'),fs=require('fs');
+const dir=process.argv[3]||'verification/蓝调波光_20260909',phase=process.argv[2]||'before';
+(async()=>{const b=await chromium.launch({channel:'chrome',headless:true,args:['--autoplay-policy=no-user-gesture-required']}),p=await b.newPage({viewport:{width:1440,height:1000}}),errors=[];p.on('pageerror',e=>errors.push(e.message));p.on('console',m=>{if(m.type()==='error')errors.push(m.text())});await p.goto('http://127.0.0.1:8770/preview/?v=water-'+phase);await p.waitForFunction(()=>window.sceneReady,null,{timeout:120000});
+const hero={position:[-13.8,12.4,15],target:[0,1.95,0],zoom:1},near={position:[8.5,6.8,8],target:[3.35,1,.2],zoom:2.35};
+const shots={water:{hour:11,camera:near},hero:{hour:10,camera:hero},low:{hour:15,camera:{position:[8,3,8],target:[3.35,.5,.2],zoom:2.15}},sunset:{hour:17.2,camera:near},night:{hour:21,camera:near},motion:{seconds:10.2,hour:11,camera:near}};
+for(const [name,shot]of Object.entries(shots)){await p.evaluate(s=>viewer.seekFrame({seconds:9,...s}),shot);await p.screenshot({path:`${dir}/${phase}-${name}.png`});}
+const info=await p.evaluate(()=>({water:viewer.stream().water.material.uniforms.daylightGain.value,programs:viewer.renderer.info.programs.map(p=>({name:p.name,diagnostics:p.diagnostics})),state:viewer.state}));fs.writeFileSync(`${dir}/${phase}-info.json`,JSON.stringify({errors,info},null,2));console.log(JSON.stringify({errors}));await b.close();})();

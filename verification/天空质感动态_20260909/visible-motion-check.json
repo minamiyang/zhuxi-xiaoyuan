@@ -1,0 +1,17 @@
+{
+  "method": "Actual running renderer screenshots; fixed star patch x713..721 y21..29; peak sRGB luminance proxy, not radiometric brightness.",
+  "starPatchPeak": [
+    227.7,
+    225.4,
+    228.7,
+    145.7
+  ],
+  "moonHorizontalShiftPixels": [
+    0.0,
+    -15.5,
+    -30.1,
+    -39.5
+  ],
+  "sceneElapsed": 5.883199999999965,
+  "wallElapsed": 9.587
+}

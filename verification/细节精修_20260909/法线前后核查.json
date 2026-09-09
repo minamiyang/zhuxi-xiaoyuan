@@ -1,0 +1,906 @@
+{
+  "before": [
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    }
+  ],
+  "final": [
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    },
+    {
+      "path": "Scene/春笋 · 课文细节/Group/Mesh",
+      "type": "BufferGeometry",
+      "zero": 1,
+      "vertices": 121
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "passed": true,
+  "auto": {
+    "music": {
+      "muted": false,
+      "blocked": false,
+      "paused": false,
+      "suspended": false
+    },
+    "sound": {
+      "context": "running",
+      "muted": false,
+      "nightEligible": false,
+      "dogNext": null,
+      "failures": [],
+      "input": {
+        "mode": "explore",
+        "hour": 17.299999999999997,
+        "lesson": {
+          "index": 0,
+          "elapsed": 0,
+          "playing": false,
+          "speed": 1,
+          "ended": false,
+          "progress": 0,
+          "sentence": 0,
+          "title": "瓜藤攀檐",
+          "shot": {
+            "p": [
+              -10,
+              6.5,
+              10
+            ],
+            "t": [
+              -3.5,
+              1.85,
+              1.4
+            ],
+            "zoom": 2.3
+          },
+          "hour": 8,
+          "duration": 47.78225806451613
+        }
+      },
+      "tracks": [
+        {
+          "id": "morning",
+          "target": 0,
+          "gain": 1.6701993942260742,
+          "loaded": true,
+          "duration": 41.260083333333334,
+          "rms": 0.003072272622078451,
+          "peak": 0.05335336923599243,
+          "normalization": 18,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "hen",
+          "target": 0.02968750000000076,
+          "gain": 0.13124482333660126,
+          "loaded": true,
+          "duration": 17.317,
+          "rms": 0.018712569468318126,
+          "peak": 0.20666293799877167,
+          "normalization": 6.412801844405686,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "chicks",
+          "target": 0.02500000000000064,
+          "gain": 0.02987232245504856,
+          "loaded": true,
+          "duration": 12.911291666666667,
+          "rms": 0.06923306533861003,
+          "peak": 0.8515610694885254,
+          "normalization": 1.7332758475028573,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "ducks",
+          "target": 0,
+          "gain": 0,
+          "loaded": true,
+          "duration": 9.192958333333333,
+          "rms": 0.06913986033686147,
+          "peak": 0.529938280582428,
+          "normalization": 1.7356124154046457,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "river",
+          "target": 0.14,
+          "gain": 0.7621175646781921,
+          "loaded": true,
+          "duration": 97.59583333333333,
+          "rms": 0.021212383311601735,
+          "peak": 0.2564890384674072,
+          "normalization": 5.6570729576797785,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "evening",
+          "target": 0.30624999999999886,
+          "gain": 3.80022931098938,
+          "loaded": true,
+          "duration": 165.09283333333335,
+          "rms": 0.006207832484050606,
+          "peak": 0.08500172942876816,
+          "normalization": 18,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "night",
+          "target": 0,
+          "gain": 0,
+          "loaded": true,
+          "duration": 7.25075,
+          "rms": 0.043646601310532045,
+          "peak": 0.32187116146087646,
+          "normalization": 2.749354964576444,
+          "oneShot": false,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "rooster",
+          "target": 0,
+          "gain": 0,
+          "loaded": true,
+          "duration": 7.546083333333334,
+          "rms": 0.03542145570882399,
+          "peak": 0.3491925001144409,
+          "normalization": 3.3877771988378864,
+          "oneShot": true,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        },
+        {
+          "id": "dog",
+          "target": 0,
+          "gain": 0,
+          "loaded": true,
+          "duration": 2.783125,
+          "rms": 0.09020918473433388,
+          "peak": 0.9195043444633484,
+          "normalization": 1.3302414865337724,
+          "oneShot": true,
+          "active": false,
+          "pending": false,
+          "playCount": 0
+        }
+      ]
+    }
+  },
+  "dog": {
+    "id": "dog",
+    "target": 0.38,
+    "gain": 0.5009440779685974,
+    "loaded": true,
+    "duration": 2.783125,
+    "rms": 0.09020918473433388,
+    "peak": 0.9195043444633484,
+    "normalization": 1.3302414865337724,
+    "oneShot": true,
+    "active": true,
+    "pending": false,
+    "playCount": 1
+  },
+  "measure": {
+    "rms": 0.005885978410984387,
+    "peak": 0.07802792638540268
+  },
+  "defaultPolicy": {
+    "before": {
+      "music": {
+        "muted": false,
+        "blocked": true,
+        "paused": true,
+        "suspended": false
+      },
+      "sound": "suspended"
+    },
+    "after": {
+      "music": {
+        "muted": false,
+        "blocked": false,
+        "paused": false,
+        "suspended": false
+      },
+      "sound": "running"
+    }
+  },
+  "errors": []
+}

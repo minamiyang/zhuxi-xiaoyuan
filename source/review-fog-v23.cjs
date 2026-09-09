@@ -1,0 +1,6 @@
+const {chromium}=require('playwright'),fs=require('fs');
+const dir='verification/全院晨雾_20260909',phase=process.argv[2]||'before';
+(async()=>{const b=await chromium.launch({channel:'chrome',headless:true,args:['--autoplay-policy=no-user-gesture-required']}),p=await b.newPage({viewport:{width:1440,height:1000}}),errors=[],states=[];p.on('pageerror',e=>errors.push(e.message));p.on('console',m=>{if(m.type()==='error')errors.push(m.text())});await p.goto('http://127.0.0.1:8770/preview/?v=21-'+phase,{waitUntil:'domcontentloaded',timeout:60000});await p.waitForFunction(()=>window.sceneReady,null,{timeout:120000});
+for(const h of [6.2,7.2,8.5]){await p.evaluate(h=>viewer.seekFrame({seconds:9,hour:h,camera:{position:[-13.8,12.4,15],target:[0,1.95,0],zoom:1}}),h);await p.screenshot({path:`${dir}/${phase}-${h}.png`});states.push(await p.evaluate(()=>({light:viewer.dayCycle.state,sky:viewer.storySky.state})));}
+for(const h of [6.2]){await p.evaluate(h=>viewer.seekFrame({seconds:9,hour:h,camera:{position:[8.5,6.8,8],target:[3.35,1,.2],zoom:2.35}}),h);await p.screenshot({path:`${dir}/${phase}-water-${h}.png`});}
+fs.writeFileSync(`${dir}/${phase}-check.json`,JSON.stringify({errors,states},null,2));console.log(JSON.stringify({errors}));await b.close();})();

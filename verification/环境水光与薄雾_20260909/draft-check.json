@@ -1,0 +1,225 @@
+{
+  "errors": [],
+  "states": [
+    {
+      "light": {
+        "hour": 6.199999999999999,
+        "altitude": 0.05233595624294365,
+        "day": 0.5116788370226637,
+        "high": 0,
+        "warm": 0.96,
+        "golden": 1,
+        "sunrise": 1,
+        "sunset": 0,
+        "sunPower": 2.661869290295048,
+        "lamps": 0.14544415057924953,
+        "moonPower": 0.31252554430549523,
+        "fog": 0.16,
+        "sunPosition": [
+          -13.165359798659763,
+          4.928031474915324,
+          3.0041113957362784
+        ],
+        "skySunPosition": [
+          -13.165359798659763,
+          0.6280314749153237,
+          3.0041113957362784
+        ],
+        "exposure": 1.0007007302213597,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0.5116788370226637,
+        "detail": 1,
+        "sunX": 0.20599038632807395,
+        "moon": [
+          0.33067277705913434,
+          0.7311028874386996
+        ],
+        "dusk": 0.86,
+        "dawn": 1,
+        "sunVisible": 0.9719999999999992,
+        "moonVisible": 0,
+        "starsVisible": 0.4883211629773363,
+        "seconds": 9
+      }
+    },
+    {
+      "light": {
+        "hour": 8.5,
+        "altitude": 0.6087614290087207,
+        "day": 1,
+        "high": 0.8168700464430713,
+        "warm": 0.18312995355692874,
+        "golden": 0.0076198182707057915,
+        "sunrise": 0.0076198182707057915,
+        "sunset": 0,
+        "sunPower": 3.2480136414969945,
+        "lamps": 0,
+        "moonPower": 0,
+        "fog": 0,
+        "sunPosition": [
+          -12.44425842531658,
+          7.337902366668683,
+          3.6199399791262943
+        ],
+        "skySunPosition": [
+          -12.44425842531658,
+          7.305137148104648,
+          3.6199399791262943
+        ],
+        "exposure": 1.03,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 1,
+        "detail": 1,
+        "sunX": 0.2374152214402076,
+        "moon": [
+          0.22333944372580106,
+          0.6365105570685176
+        ],
+        "dusk": 0,
+        "dawn": 0,
+        "sunVisible": 1,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      }
+    },
+    {
+      "light": {
+        "hour": 12,
+        "altitude": 1,
+        "day": 1,
+        "high": 1,
+        "warm": 0,
+        "golden": 0,
+        "sunrise": 0,
+        "sunset": 0,
+        "sunPower": 3.65,
+        "lamps": 0,
+        "moonPower": 0,
+        "fog": 0,
+        "sunPosition": [
+          -3.500000000000001,
+          12,
+          6
+        ],
+        "skySunPosition": [
+          -3.500000000000001,
+          12,
+          6
+        ],
+        "exposure": 1.03,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 1,
+        "detail": 1,
+        "sunX": 0.5376769222363873,
+        "moon": [
+          1.1800061103924677,
+          0.57
+        ],
+        "dusk": 0,
+        "dawn": 0,
+        "sunVisible": 1,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      }
+    },
+    {
+      "light": {
+        "hour": 17.299999999999997,
+        "altitude": 0.18223552549214858,
+        "day": 0.9898960446011376,
+        "high": 0.03816141723702753,
+        "warm": 0.96,
+        "golden": 1,
+        "sunrise": 0,
+        "sunset": 1,
+        "sunPower": 3.20198081956027,
+        "lamps": 0,
+        "moonPower": 0.006466531455271963,
+        "fog": 0,
+        "sunPosition": [
+          12.144489459108886,
+          6.486826305905783,
+          8.949764722691864
+        ],
+        "skySunPosition": [
+          12.144489459108886,
+          2.186826305905783,
+          8.949764722691864
+        ],
+        "exposure": 1.029393762676068,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0.9898960446011376,
+        "detail": 1,
+        "sunX": 0.85,
+        "moon": [
+          0.9326727770591345,
+          0.7090199606663348
+        ],
+        "dusk": 0.9978481037648309,
+        "dawn": 0,
+        "sunVisible": 1,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      }
+    },
+    {
+      "light": {
+        "hour": 21,
+        "altitude": -0.7071067811865471,
+        "day": 0,
+        "high": 0,
+        "warm": 0,
+        "golden": 0,
+        "sunrise": 0,
+        "sunset": 0,
+        "sunPower": 0,
+        "lamps": 1,
+        "moonPower": 0.64,
+        "fog": 0,
+        "sunPosition": [
+          9.192388155425123,
+          0.12,
+          8.121320343559644
+        ],
+        "skySunPosition": [
+          9.192388155425123,
+          0.12,
+          8.121320343559644
+        ],
+        "exposure": 0.97,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0,
+        "detail": 1,
+        "sunX": 0.8108160100675443,
+        "moon": [
+          0.7600061103924677,
+          0.860208152801713
+        ],
+        "dusk": 0,
+        "dawn": 0,
+        "sunVisible": 0,
+        "moonVisible": 1,
+        "starsVisible": 1,
+        "seconds": 9
+      }
+    }
+  ]
+}

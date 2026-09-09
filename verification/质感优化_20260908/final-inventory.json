@@ -1,0 +1,5348 @@
+[
+  {
+    "name": "",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      -0.418,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪间薄雾 0",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      3,
+      0.48,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪间薄雾 1",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      3,
+      0.585,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪间薄雾 2",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      3,
+      0.69,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪间薄雾 3",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      3,
+      0.7949999999999999,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪间薄雾 4",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      3,
+      0.8999999999999999,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪间薄雾 5",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      3,
+      1.005,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪间薄雾 6",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      3,
+      1.1099999999999999,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪间薄雾 7",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      3,
+      1.2149999999999999,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪间薄雾 8",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      3,
+      1.3199999999999998,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "西窗 · 窗内柔光",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -3.1,
+      2.2,
+      -0.13
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "东窗 · 窗内柔光",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.3,
+      2.2,
+      -0.13
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "山墙窗 · 窗内柔光",
+    "vertices": 4,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -3.87,
+      2.25,
+      -2.25
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "堂屋小灯",
+    "vertices": 221,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -1.25,
+      2.46,
+      -0.75
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "02_·_旧杉木_·_顺纹",
+    "vertices": 5880,
+    "instances": 1,
+    "material": [
+      "旧杉木 · 顺纹"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "02_·_青灰砂岩_·_颗粒与风化",
+    "vertices": 1536,
+    "instances": 1,
+    "material": [
+      "青灰砂岩 · 颗粒与风化"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "02A_·_瓦口磨损",
+    "vertices": 76762,
+    "instances": 1,
+    "material": [
+      "瓦口磨损"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "02A_·_青灰筒瓦_·_陶土微孔",
+    "vertices": 134264,
+    "instances": 1,
+    "material": [
+      "青灰筒瓦 · 陶土微孔"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "02B_·_旧杉木_·_顺纹",
+    "vertices": 34944,
+    "instances": 1,
+    "material": [
+      "旧杉木 · 顺纹"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "02B_·_桥石_·_暖灰石灰岩",
+    "vertices": 768,
+    "instances": 1,
+    "material": [
+      "桥石 · 暖灰石灰岩"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "02B_·_灰泥脱落露土",
+    "vertices": 414,
+    "instances": 1,
+    "material": [
+      "灰泥脱落露土"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "02B_·_青灰砂岩_·_颗粒与风化",
+    "vertices": 28032,
+    "instances": 1,
+    "material": [
+      "青灰砂岩 · 颗粒与风化"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "02B_·_青灰筒瓦_·_陶土微孔",
+    "vertices": 4992,
+    "instances": 1,
+    "material": [
+      "青灰筒瓦 · 陶土微孔"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "03_·_竹木_·_蜜色旧表皮",
+    "vertices": 1276,
+    "instances": 1,
+    "material": [
+      "竹木 · 蜜色旧表皮"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "03A_·_丝瓜_·_纵棱表皮",
+    "vertices": 9071,
+    "instances": 1,
+    "material": [
+      "丝瓜 · 纵棱表皮"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "03A_·_丝瓜浅棱",
+    "vertices": 50264,
+    "instances": 1,
+    "material": [
+      "丝瓜浅棱"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "03A_·_叶色02",
+    "vertices": 39910,
+    "instances": 1,
+    "material": [
+      "叶色02"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "03A_·_叶色03",
+    "vertices": 2400,
+    "instances": 1,
+    "material": [
+      "叶色03"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "04_·_桥石_·_暖灰石灰岩",
+    "vertices": 137088,
+    "instances": 1,
+    "material": [
+      "桥石 · 暖灰石灰岩"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "05_·_竹木_·_蜜色旧表皮",
+    "vertices": 9897,
+    "instances": 1,
+    "material": [
+      "竹木 · 蜜色旧表皮"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "05_·_老树树皮",
+    "vertices": 4267,
+    "instances": 1,
+    "material": [
+      "老树树皮"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "07_·_旧杉木_·_顺纹",
+    "vertices": 11101,
+    "instances": 1,
+    "material": [
+      "旧杉木 · 顺纹"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "07_·_盘中青蔬",
+    "vertices": 1630,
+    "instances": 1,
+    "material": [
+      "盘中青蔬"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "07_·_竹木_·_蜜色旧表皮",
+    "vertices": 43766,
+    "instances": 1,
+    "material": [
+      "竹木 · 蜜色旧表皮"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "07_·_竹篾",
+    "vertices": 972,
+    "instances": 1,
+    "material": [
+      "竹篾"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "07_·_米白瓷器",
+    "vertices": 1304,
+    "instances": 1,
+    "material": [
+      "米白瓷器"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "07_·_米糕与玉米金黄",
+    "vertices": 3260,
+    "instances": 1,
+    "material": [
+      "米糕与玉米金黄"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "07_·_粗陶_·_釉下砂粒",
+    "vertices": 640,
+    "instances": 1,
+    "material": [
+      "粗陶 · 釉下砂粒"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_喙与足",
+    "vertices": 1650,
+    "instances": 1,
+    "material": [
+      "喙与足"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_小鸡绒羽",
+    "vertices": 185599,
+    "instances": 1,
+    "material": [
+      "小鸡绒羽"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_眼珠",
+    "vertices": 462,
+    "instances": 1,
+    "material": [
+      "眼珠"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_颈羽金黄",
+    "vertices": 562,
+    "instances": 1,
+    "material": [
+      "颈羽金黄"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽浅缘",
+    "vertices": 294,
+    "instances": 1,
+    "material": [
+      "鸭羽浅缘"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "雏鸡绒羽_1001",
+    "vertices": 1480,
+    "instances": 1,
+    "material": [
+      "雏鸡绒毛"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_喙与足001",
+    "vertices": 1650,
+    "instances": 1,
+    "material": [
+      "喙与足"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_小鸡绒羽001",
+    "vertices": 185599,
+    "instances": 1,
+    "material": [
+      "小鸡绒羽"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_眼珠001",
+    "vertices": 462,
+    "instances": 1,
+    "material": [
+      "眼珠"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_颈羽金黄001",
+    "vertices": 562,
+    "instances": 1,
+    "material": [
+      "颈羽金黄"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽浅缘001",
+    "vertices": 294,
+    "instances": 1,
+    "material": [
+      "鸭羽浅缘"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "雏鸡绒羽_2001",
+    "vertices": 1480,
+    "instances": 1,
+    "material": [
+      "雏鸡绒毛"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_喙与足002",
+    "vertices": 1650,
+    "instances": 1,
+    "material": [
+      "喙与足"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_小鸡绒羽002",
+    "vertices": 185599,
+    "instances": 1,
+    "material": [
+      "小鸡绒羽"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_眼珠002",
+    "vertices": 462,
+    "instances": 1,
+    "material": [
+      "眼珠"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_颈羽金黄002",
+    "vertices": 562,
+    "instances": 1,
+    "material": [
+      "颈羽金黄"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽浅缘002",
+    "vertices": 294,
+    "instances": 1,
+    "material": [
+      "鸭羽浅缘"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "雏鸡绒羽_3001",
+    "vertices": 1480,
+    "instances": 1,
+    "material": [
+      "雏鸡绒毛"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_喙与足003",
+    "vertices": 1650,
+    "instances": 1,
+    "material": [
+      "喙与足"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_小鸡绒羽003",
+    "vertices": 185599,
+    "instances": 1,
+    "material": [
+      "小鸡绒羽"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_眼珠003",
+    "vertices": 462,
+    "instances": 1,
+    "material": [
+      "眼珠"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_颈羽金黄003",
+    "vertices": 562,
+    "instances": 1,
+    "material": [
+      "颈羽金黄"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽浅缘003",
+    "vertices": 294,
+    "instances": 1,
+    "material": [
+      "鸭羽浅缘"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "雏鸡绒羽_4001",
+    "vertices": 1480,
+    "instances": 1,
+    "material": [
+      "雏鸡绒毛"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_喙与足004",
+    "vertices": 1650,
+    "instances": 1,
+    "material": [
+      "喙与足"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_小鸡绒羽004",
+    "vertices": 185599,
+    "instances": 1,
+    "material": [
+      "小鸡绒羽"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_眼珠004",
+    "vertices": 462,
+    "instances": 1,
+    "material": [
+      "眼珠"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_颈羽金黄004",
+    "vertices": 562,
+    "instances": 1,
+    "material": [
+      "颈羽金黄"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽浅缘004",
+    "vertices": 294,
+    "instances": 1,
+    "material": [
+      "鸭羽浅缘"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "雏鸡绒羽_5001",
+    "vertices": 1480,
+    "instances": 1,
+    "material": [
+      "雏鸡绒毛"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_喙与足005",
+    "vertices": 1650,
+    "instances": 1,
+    "material": [
+      "喙与足"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_小鸡绒羽005",
+    "vertices": 185599,
+    "instances": 1,
+    "material": [
+      "小鸡绒羽"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_眼珠005",
+    "vertices": 462,
+    "instances": 1,
+    "material": [
+      "眼珠"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_颈羽金黄005",
+    "vertices": 562,
+    "instances": 1,
+    "material": [
+      "颈羽金黄"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽浅缘005",
+    "vertices": 294,
+    "instances": 1,
+    "material": [
+      "鸭羽浅缘"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "雏鸡绒羽_6001",
+    "vertices": 1480,
+    "instances": 1,
+    "material": [
+      "雏鸡绒毛"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_眼珠006",
+    "vertices": 462,
+    "instances": 1,
+    "material": [
+      "眼珠"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽浅缘006",
+    "vertices": 1800,
+    "instances": 1,
+    "material": [
+      "鸭羽浅缘"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽米褐",
+    "vertices": 87952,
+    "instances": 1,
+    "material": [
+      "鸭羽米褐"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭翼褐色",
+    "vertices": 1647,
+    "instances": 1,
+    "material": [
+      "鸭翼褐色"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪鸭_1_·_扁喙001",
+    "vertices": 349,
+    "instances": 1,
+    "material": [
+      "喙与足"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪鸭_1_·_细密覆羽_0001",
+    "vertices": 2809,
+    "instances": 1,
+    "material": [
+      "细羽片_3"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪鸭_1_·_细密覆羽_1001",
+    "vertices": 2839,
+    "instances": 1,
+    "material": [
+      "细羽片_4"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪鸭_1_·_细密覆羽_2001",
+    "vertices": 2752,
+    "instances": 1,
+    "material": [
+      "细羽片_5"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_眼珠007",
+    "vertices": 462,
+    "instances": 1,
+    "material": [
+      "眼珠"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽浅缘007",
+    "vertices": 1800,
+    "instances": 1,
+    "material": [
+      "鸭羽浅缘"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭羽米褐001",
+    "vertices": 87952,
+    "instances": 1,
+    "material": [
+      "鸭羽米褐"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_鸭翼褐色001",
+    "vertices": 1647,
+    "instances": 1,
+    "material": [
+      "鸭翼褐色"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪鸭_2_·_扁喙001",
+    "vertices": 349,
+    "instances": 1,
+    "material": [
+      "喙与足"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪鸭_2_·_细密覆羽_0001",
+    "vertices": 2809,
+    "instances": 1,
+    "material": [
+      "细羽片_3"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪鸭_2_·_细密覆羽_1001",
+    "vertices": 2725,
+    "instances": 1,
+    "material": [
+      "细羽片_4"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "溪鸭_2_·_细密覆羽_2001",
+    "vertices": 2798,
+    "instances": 1,
+    "material": [
+      "细羽片_5"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_Material_0001",
+    "vertices": 1582,
+    "instances": 1,
+    "material": [
+      "Material_0.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_Material_1001",
+    "vertices": 1582,
+    "instances": 1,
+    "material": [
+      "Material_1.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_Material_6001",
+    "vertices": 2252,
+    "instances": 1,
+    "material": [
+      "Material_6.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_Material_7001",
+    "vertices": 12418,
+    "instances": 1,
+    "material": [
+      "Material_7.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_Material_8001",
+    "vertices": 2283,
+    "instances": 1,
+    "material": [
+      "Material_8.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_Material_9001",
+    "vertices": 1582,
+    "instances": 1,
+    "material": [
+      "Material_9.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_Material_10001",
+    "vertices": 1582,
+    "instances": 1,
+    "material": [
+      "Material_10.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_Material_11001",
+    "vertices": 2050,
+    "instances": 1,
+    "material": [
+      "Material_11.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "09_·_Material_12001",
+    "vertices": 1786,
+    "instances": 1,
+    "material": [
+      "Material_12.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "折叠翼_·_短覆羽与飞羽002",
+    "vertices": 4235,
+    "instances": 1,
+    "material": [
+      "Material_4.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "折叠翼_·_短覆羽与飞羽003",
+    "vertices": 4221,
+    "instances": 1,
+    "material": [
+      "Material_3.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "母鸡短尾_·_圆端扇羽001",
+    "vertices": 958,
+    "instances": 1,
+    "material": [
+      "Material_5.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "背胸腹_·_顺体表覆羽001",
+    "vertices": 67200,
+    "instances": 1,
+    "material": [
+      "Material_2.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "颈披羽_·_沿弯曲颈部排列001",
+    "vertices": 18255,
+    "instances": 1,
+    "material": [
+      "Material_13.001"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wake_replace_·_薄水波高光",
+    "vertices": 57804,
+    "instances": 1,
+    "material": [
+      "薄水波高光"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wind_bamboo_·_竹木_·_蜜色旧表皮",
+    "vertices": 20672,
+    "instances": 1,
+    "material": [
+      "竹木 · 蜜色旧表皮"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wind_bamboo_·_竹秆_·_黄绿色蜡皮",
+    "vertices": 105088,
+    "instances": 1,
+    "material": [
+      "竹秆 · 黄绿色蜡皮"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wind_flower_·_叶色03",
+    "vertices": 15574,
+    "instances": 1,
+    "material": [
+      "叶色03"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wind_flower_·_花蕊暖黄",
+    "vertices": 27188,
+    "instances": 1,
+    "material": [
+      "花蕊暖黄"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wind_grass_·_叶色01",
+    "vertices": 37118,
+    "instances": 1,
+    "material": [
+      "叶色01"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wind_grass_·_叶色02",
+    "vertices": 36534,
+    "instances": 1,
+    "material": [
+      "叶色02"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wind_grass_·_叶色03",
+    "vertices": 37588,
+    "instances": 1,
+    "material": [
+      "叶色03"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wind_tree_branch_·_老树树皮",
+    "vertices": 31815,
+    "instances": 1,
+    "material": [
+      "老树树皮"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "wind_vine_·_叶色03",
+    "vertices": 33710,
+    "instances": 1,
+    "material": [
+      "叶色03"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "五瓣花簇_0001",
+    "vertices": 3153,
+    "instances": 1,
+    "material": [
+      "凤仙花 0"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "五瓣花簇_1001",
+    "vertices": 2700,
+    "instances": 1,
+    "material": [
+      "凤仙花 1"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "五瓣花簇_2001",
+    "vertices": 3873,
+    "instances": 1,
+    "material": [
+      "凤仙花 2"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "完整展示底座001",
+    "vertices": 384,
+    "instances": 1,
+    "material": [
+      "炭灰展示底座"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "屋脊芯001",
+    "vertices": 58,
+    "instances": 1,
+    "material": [
+      "青灰筒瓦 · 陶土微孔"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "掌叶攀覆_0001",
+    "vertices": 1117,
+    "instances": 1,
+    "material": [
+      "叶色00"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "掌叶攀覆_1001",
+    "vertices": 1587,
+    "instances": 1,
+    "material": [
+      "叶色01"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "掌叶攀覆_2001",
+    "vertices": 1093,
+    "instances": 1,
+    "material": [
+      "叶色02"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "掌叶攀覆_4001",
+    "vertices": 1268,
+    "instances": 1,
+    "material": [
+      "叶色04"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "掌叶攀覆_5001",
+    "vertices": 1598,
+    "instances": 1,
+    "material": [
+      "叶色05"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "木椽端头001",
+    "vertices": 1276,
+    "instances": 1,
+    "material": [
+      "竹木 · 蜜色旧表皮"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "树根半埋石001",
+    "vertices": 12899,
+    "instances": 1,
+    "material": [
+      "桥石 · 暖灰石灰岩"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "桥脚贴石苔001",
+    "vertices": 17594,
+    "instances": 1,
+    "material": [
+      "石缝苔藓"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "榆树分层叶冠_0001",
+    "vertices": 82986,
+    "instances": 1,
+    "material": [
+      "叶色00"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "榆树分层叶冠_1001",
+    "vertices": 124773,
+    "instances": 1,
+    "material": [
+      "叶色01"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "榆树分层叶冠_2001",
+    "vertices": 125877,
+    "instances": 1,
+    "material": [
+      "叶色02"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "榆树分层叶冠_3001",
+    "vertices": 84365,
+    "instances": 1,
+    "material": [
+      "叶色03"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "榆树分层叶冠_4001",
+    "vertices": 41069,
+    "instances": 1,
+    "material": [
+      "叶色04"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "榆树分层叶冠_5001",
+    "vertices": 84329,
+    "instances": 1,
+    "material": [
+      "叶色05"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "浅溪透视河床石001",
+    "vertices": 47768,
+    "instances": 1,
+    "material": [
+      "桥石 · 暖灰石灰岩"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "石灰墙体_·_山墙一体001",
+    "vertices": 1450,
+    "instances": 1,
+    "material": [
+      "米白灰泥 · 石灰颗粒"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "砾石与溪岸卵石001",
+    "vertices": 293223,
+    "instances": 1,
+    "material": [
+      "桥石 · 暖灰石灰岩"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "竹叶飞簇_0001",
+    "vertices": 10334,
+    "instances": 1,
+    "material": [
+      "叶色00"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "竹叶飞簇_1001",
+    "vertices": 10952,
+    "instances": 1,
+    "material": [
+      "叶色01"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "竹叶飞簇_2001",
+    "vertices": 10304,
+    "instances": 1,
+    "material": [
+      "叶色02"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "竹叶飞簇_3001",
+    "vertices": 10076,
+    "instances": 1,
+    "material": [
+      "叶色03"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "竹叶飞簇_4001",
+    "vertices": 11217,
+    "instances": 1,
+    "material": [
+      "叶色04"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "竹叶飞簇_5001",
+    "vertices": 11403,
+    "instances": 1,
+    "material": [
+      "叶色05"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "细碎土粒001",
+    "vertices": 316620,
+    "instances": 1,
+    "material": [
+      "院土细碎团粒"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "花境叶片_0001",
+    "vertices": 854,
+    "instances": 1,
+    "material": [
+      "叶色00"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "花境叶片_1001",
+    "vertices": 1116,
+    "instances": 1,
+    "material": [
+      "叶色01"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "花境叶片_2001",
+    "vertices": 1160,
+    "instances": 1,
+    "material": [
+      "叶色02"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "花境叶片_4001",
+    "vertices": 1141,
+    "instances": 1,
+    "material": [
+      "叶色04"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "花境叶片_5001",
+    "vertices": 1133,
+    "instances": 1,
+    "material": [
+      "叶色05"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "草丛高低层_0001",
+    "vertices": 32934,
+    "instances": 1,
+    "material": [
+      "叶色00"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "草丛高低层_4001",
+    "vertices": 31788,
+    "instances": 1,
+    "material": [
+      "叶色04"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "草丛高低层_5001",
+    "vertices": 30830,
+    "instances": 1,
+    "material": [
+      "叶色05"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "蜿蜒溪水_·_有厚度水体001",
+    "vertices": 4018,
+    "instances": 1,
+    "material": [
+      "溪水 · 透射与水面微波"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "连通地形_·_溪床下切001",
+    "vertices": 56877,
+    "instances": 1,
+    "material": [
+      "压实院土 · 土粒"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "青铜门环002",
+    "vertices": 324,
+    "instances": 1,
+    "material": [
+      "暗铜门环 -1"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "青铜门环003",
+    "vertices": 352,
+    "instances": 1,
+    "material": [
+      "暗铜门环 1"
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0.225,
+      -0.025
+    ],
+    "scale": [
+      0.248,
+      0.228,
+      0.353
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0.17,
+      -0.21
+    ],
+    "scale": [
+      0.19,
+      0.18,
+      0.21
+    ]
+  },
+  {
+    "name": "背胸腹 · 顺体表覆羽",
+    "vertices": 105,
+    "instances": 572,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.221,
+      0.247,
+      -0.04
+    ],
+    "scale": [
+      0.048,
+      0.128,
+      0.257
+    ]
+  },
+  {
+    "name": "折叠翼 · 短覆羽与飞羽",
+    "vertices": 105,
+    "instances": 40,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.221,
+      0.247,
+      -0.04
+    ],
+    "scale": [
+      0.048,
+      0.128,
+      0.257
+    ]
+  },
+  {
+    "name": "折叠翼 · 短覆羽与飞羽",
+    "vertices": 105,
+    "instances": 40,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "母鸡短尾 · 圆端扇羽",
+    "vertices": 105,
+    "instances": 9,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 76,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.1035,
+      0.27,
+      0
+    ],
+    "scale": [
+      1,
+      0.21002142747824565,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.102,
+      0.053,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.102,
+      0.073,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.102,
+      0.093,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.102,
+      0.11299999999999999,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.102,
+      0.133,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 76,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.1035,
+      0.27,
+      0
+    ],
+    "scale": [
+      1,
+      0.21002142747824565,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.102,
+      0.053,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.102,
+      0.073,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.102,
+      0.093,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.102,
+      0.11299999999999999,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.102,
+      0.133,
+      0.028
+    ],
+    "scale": [
+      0.014,
+      0.003,
+      0.007
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      0.083,
+      0.09,
+      0.098
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      -0.032,
+      0.055
+    ],
+    "scale": [
+      0.065,
+      0.059,
+      0.065
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.074,
+      0.015,
+      0.04
+    ],
+    "scale": [
+      0.0065,
+      0.017,
+      0.019
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.08,
+      0.016,
+      0.047
+    ],
+    "scale": [
+      0.005,
+      0.0085,
+      0.01
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.083,
+      0.019,
+      0.05
+    ],
+    "scale": [
+      0.002,
+      0.002,
+      0.002
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.064,
+      -0.026,
+      -0.033
+    ],
+    "scale": [
+      0.009,
+      0.012,
+      0.016
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.018,
+      -0.08,
+      0.058
+    ],
+    "scale": [
+      0.012,
+      0.025,
+      0.016
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.074,
+      0.015,
+      0.04
+    ],
+    "scale": [
+      0.0065,
+      0.017,
+      0.019
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.08,
+      0.016,
+      0.047
+    ],
+    "scale": [
+      0.005,
+      0.0085,
+      0.01
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.083,
+      0.019,
+      0.05
+    ],
+    "scale": [
+      0.002,
+      0.002,
+      0.002
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.064,
+      -0.026,
+      -0.033
+    ],
+    "scale": [
+      0.009,
+      0.012,
+      0.016
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.018,
+      -0.08,
+      0.058
+    ],
+    "scale": [
+      0.012,
+      0.025,
+      0.016
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 83,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      -0.025,
+      0.12
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 136,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      -0.018,
+      -0.017,
+      0.1
+    ],
+    "scale": [
+      0.002,
+      0.003,
+      0.006
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 693,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0.018,
+      -0.017,
+      0.1
+    ],
+    "scale": [
+      0.002,
+      0.003,
+      0.006
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 468,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 525,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "颈披羽 · 沿弯曲颈部排列",
+    "vertices": 105,
+    "instances": 160,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 186,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0.24,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 186,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0.18,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 186,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0.285,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 186,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0.145,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 186,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0.165,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 121,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "living_stream",
+    "vertices": 3417,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0.36,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 162,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      -0.13240000000000007
+    ],
+    "scale": [
+      0.2588000000000001,
+      1,
+      0.42040000000000016
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 162,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      -0.17240000000000008
+    ],
+    "scale": [
+      0.3221333333333335,
+      1,
+      0.5104000000000002
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 162,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      -0.09240000000000004
+    ],
+    "scale": [
+      0.19546666666666673,
+      1,
+      0.33040000000000014
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 162,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      -0.13240000000000007
+    ],
+    "scale": [
+      0.2588000000000001,
+      1,
+      0.42040000000000016
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 162,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      -0.17240000000000008
+    ],
+    "scale": [
+      0.3221333333333335,
+      1,
+      0.5104000000000002
+    ]
+  },
+  {
+    "name": "",
+    "vertices": 162,
+    "instances": 1,
+    "material": [
+      ""
+    ],
+    "position": [
+      0,
+      0,
+      -0.09240000000000004
+    ],
+    "scale": [
+      0.19546666666666673,
+      1,
+      0.33040000000000014
+    ]
+  }
+]

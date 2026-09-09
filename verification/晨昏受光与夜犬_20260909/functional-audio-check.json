@@ -1,0 +1,854 @@
+{
+  "passed": true,
+  "samples": [
+    {
+      "hour": 0,
+      "light": {
+        "hour": 0,
+        "altitude": -1,
+        "day": 0,
+        "high": 0,
+        "warm": 0,
+        "golden": 0,
+        "sunrise": 0,
+        "sunset": 0,
+        "sunPower": 0,
+        "lamps": 1,
+        "moonPower": 0.64,
+        "fog": 1.2226385343353973e-14,
+        "sunPosition": [
+          -7.960204194457795e-16,
+          0.12,
+          6
+        ],
+        "skySunPosition": [
+          -7.960204194457795e-16,
+          0.12,
+          6
+        ],
+        "exposure": 0.97,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0,
+        "detail": 1,
+        "sunX": 0.5029587181905236,
+        "moon": [
+          0.6200061103924677,
+          0.91
+        ],
+        "dusk": 0,
+        "dawn": 0,
+        "sunVisible": 0,
+        "moonVisible": 1,
+        "starsVisible": 1,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 0,
+        "moon": 0.15,
+        "golden": 0
+      }
+    },
+    {
+      "hour": 5,
+      "light": {
+        "hour": 5,
+        "altitude": -0.25881904510252074,
+        "day": 0,
+        "high": 0,
+        "warm": 0,
+        "golden": 0,
+        "sunrise": 0,
+        "sunset": 0,
+        "sunPower": 0,
+        "lamps": 1,
+        "moonPower": 0.64,
+        "fog": 0.046946211884470714,
+        "sunPosition": [
+          -12.557035741757888,
+          0.12,
+          3.102222521132795
+        ],
+        "skySunPosition": [
+          -12.557035741757888,
+          0.12,
+          3.102222521132795
+        ],
+        "exposure": 0.97,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0,
+        "detail": 1,
+        "sunX": 0.21902037712467667,
+        "moon": [
+          0.3866727770591344,
+          0.7839992376674285
+        ],
+        "dusk": 0,
+        "dawn": 0,
+        "sunVisible": 0,
+        "moonVisible": 1,
+        "starsVisible": 1,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 0,
+        "moon": 0.15,
+        "golden": 0
+      }
+    },
+    {
+      "hour": 5.8,
+      "light": {
+        "hour": 5.800000000000001,
+        "altitude": -0.05233595624294365,
+        "day": 0.06770751073726176,
+        "high": 0,
+        "warm": 0.5695312500000012,
+        "golden": 0.5932617187500012,
+        "sunrise": 0.5932617187500012,
+        "sunset": 0,
+        "sunPower": 0.06911853026755867,
+        "lamps": 0.7536216970700269,
+        "moonPower": 0.5966671931281525,
+        "fog": 0.12792322420731655,
+        "sunPosition": [
+          -12.98218395180946,
+          2.5510253906250053,
+          3.0041113957362784
+        ],
+        "skySunPosition": [
+          -12.98218395180946,
+          0.12,
+          3.0041113957362784
+        ],
+        "exposure": 0.9740624506442357,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0.06770751073726176,
+        "detail": 1,
+        "sunX": 0.2094069715445904,
+        "moon": [
+          0.34933944372580095,
+          0.7488971125613004
+        ],
+        "dusk": 0.7256250000000009,
+        "dawn": 0.843750000000001,
+        "sunVisible": 0.028000000000000767,
+        "moonVisible": 0,
+        "starsVisible": 0.9322924892627382,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 0.03141751375798121,
+        "moon": 0,
+        "golden": 0.5932617187500012
+      }
+    },
+    {
+      "hour": 6.35,
+      "light": {
+        "hour": 6.350000000000001,
+        "altitude": 0.09150161866340274,
+        "day": 0.702213149720322,
+        "high": 0,
+        "warm": 0.96,
+        "golden": 1,
+        "sunrise": 1,
+        "sunset": 0,
+        "sunPower": 2.738548652566924,
+        "lamps": 0.016906608385986788,
+        "moonPower": 0.19058358417899393,
+        "fog": 0.14246736302089189,
+        "sunPosition": [
+          -13.265719723792511,
+          5.398019423960832,
+          3.012585217276015
+        ],
+        "skySunPosition": [
+          -13.265719723792511,
+          1.098019423960833,
+          3.012585217276015
+        ],
+        "exposure": 1.0121327889832192,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0.702213149720322,
+        "detail": 1,
+        "sunX": 0.20426388782268076,
+        "moon": [
+          0.3236727770591342,
+          0.7244447248272216
+        ],
+        "dusk": 0.86,
+        "dawn": 1,
+        "sunVisible": 1,
+        "moonVisible": 0,
+        "starsVisible": 0.297786850279678,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 1.2447948420758743,
+        "moon": 0,
+        "golden": 1
+      }
+    },
+    {
+      "hour": 7.2,
+      "light": {
+        "hour": 7.199999999999999,
+        "altitude": 0.30901699437494723,
+        "day": 1,
+        "high": 0.21423296186267834,
+        "warm": 0.7857670381373216,
+        "golden": 0.8062172322527357,
+        "sunrise": 0.8062172322527357,
+        "sunset": 0,
+        "sunPower": 3.4639024502527933,
+        "lamps": 0,
+        "moonPower": 0,
+        "fog": 0.06626004387573202,
+        "sunPosition": [
+          -13.445294192149312,
+          7.17493803118613,
+          3.146830451114539
+        ],
+        "skySunPosition": [
+          -13.445294192149312,
+          3.7082039324993668,
+          3.146830451114539
+        ],
+        "exposure": 1.03,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 1,
+        "detail": 1,
+        "sunX": 0.2032180948410692,
+        "moon": [
+          0.2840061103924677,
+          0.687467110956259
+        ],
+        "dusk": 0.6568800116635081,
+        "dawn": 0.7638139670505908,
+        "sunVisible": 1,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 1.5745011137512697,
+        "moon": 0,
+        "golden": 0.8062172322527357
+      }
+    },
+    {
+      "hour": 8.5,
+      "light": {
+        "hour": 8.5,
+        "altitude": 0.6087614290087207,
+        "day": 1,
+        "high": 0.8168700464430713,
+        "warm": 0.18312995355692874,
+        "golden": 0.0076198182707057915,
+        "sunrise": 0.0076198182707057915,
+        "sunset": 0,
+        "sunPower": 3.2480136414969945,
+        "lamps": 0,
+        "moonPower": 0,
+        "fog": 0,
+        "sunPosition": [
+          -12.44425842531658,
+          7.337902366668683,
+          3.6199399791262943
+        ],
+        "skySunPosition": [
+          -12.44425842531658,
+          7.305137148104648,
+          3.6199399791262943
+        ],
+        "exposure": 1.03,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 1,
+        "detail": 1,
+        "sunX": 0.2374152214402076,
+        "moon": [
+          0.22333944372580106,
+          0.6365105570685176
+        ],
+        "dusk": 0,
+        "dawn": 0,
+        "sunVisible": 1,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 1.4763698370440883,
+        "moon": 0,
+        "golden": 0.0076198182707057915
+      }
+    },
+    {
+      "hour": 12,
+      "light": {
+        "hour": 12,
+        "altitude": 1,
+        "day": 1,
+        "high": 1,
+        "warm": 0,
+        "golden": 0,
+        "sunrise": 0,
+        "sunset": 0,
+        "sunPower": 3.65,
+        "lamps": 0,
+        "moonPower": 0,
+        "fog": 0,
+        "sunPosition": [
+          -3.500000000000001,
+          12,
+          6
+        ],
+        "skySunPosition": [
+          -3.500000000000001,
+          12,
+          6
+        ],
+        "exposure": 1.03,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 1,
+        "detail": 1,
+        "sunX": 0.5376769222363872,
+        "moon": [
+          1.1800061103924677,
+          0.57
+        ],
+        "dusk": 0,
+        "dawn": 0,
+        "sunVisible": 1,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 1.6,
+        "moon": 0,
+        "golden": 0
+      }
+    },
+    {
+      "hour": 17.3,
+      "light": {
+        "hour": 17.299999999999997,
+        "altitude": 0.18223552549214858,
+        "day": 0.9898960446011376,
+        "high": 0.03816141723702753,
+        "warm": 0.96,
+        "golden": 1,
+        "sunrise": 0,
+        "sunset": 1,
+        "sunPower": 3.20198081956027,
+        "lamps": 0,
+        "moonPower": 0.006466531455271963,
+        "fog": 0,
+        "sunPosition": [
+          12.144489459108886,
+          6.486826305905783,
+          8.949764722691864
+        ],
+        "skySunPosition": [
+          12.144489459108886,
+          2.186826305905783,
+          8.949764722691864
+        ],
+        "exposure": 1.029393762676068,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0.9898960446011376,
+        "detail": 1,
+        "sunX": 0.85,
+        "moon": [
+          0.9326727770591345,
+          0.7090199606663348
+        ],
+        "dusk": 0.9978481037648309,
+        "dawn": 0,
+        "sunVisible": 1,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 1.4554458270728499,
+        "moon": 0,
+        "golden": 1
+      }
+    },
+    {
+      "hour": 17.8,
+      "light": {
+        "hour": 17.799999999999997,
+        "altitude": 0.052335956242944695,
+        "day": 0.511678837022669,
+        "high": 0,
+        "warm": 0.96,
+        "golden": 1,
+        "sunrise": 0,
+        "sunset": 1,
+        "sunPower": 2.738548652566924,
+        "lamps": 0.14544415057924476,
+        "moonPower": 0.31252554430549184,
+        "fog": 0,
+        "sunPosition": [
+          12.799008104959155,
+          4.928031474915336,
+          8.995888604263722
+        ],
+        "skySunPosition": [
+          12.799008104959155,
+          0.6280314749153364,
+          8.995888604263722
+        ],
+        "exposure": 1.0007007302213602,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0.511678837022669,
+        "detail": 1,
+        "sunX": 0.85,
+        "moon": [
+          0.9093394437258011,
+          0.7311028874386994
+        ],
+        "dusk": 1,
+        "dawn": 0,
+        "sunVisible": 1,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 1.2447948420758743,
+        "moon": 0,
+        "golden": 1
+      }
+    },
+    {
+      "hour": 18.3,
+      "light": {
+        "hour": 18.299999999999997,
+        "altitude": -0.07845909572784393,
+        "day": 0.014726632859359108,
+        "high": 0,
+        "warm": 0.5596707818930166,
+        "golden": 0.5829903978052257,
+        "sunrise": 0,
+        "sunset": 0.5829903978052257,
+        "sunPower": 1.2308499524413101,
+        "lamps": 0.8814509933290071,
+        "moonPower": 0.6305749549700101,
+        "fog": 0,
+        "sunPosition": [
+          12.959925338530665,
+          2.50685871056247,
+          8.990752001199384
+        ],
+        "skySunPosition": [
+          12.959925338530665,
+          0.12,
+          8.990752001199384
+        ],
+        "exposure": 0.9708835979715614,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0.014726632859359108,
+        "detail": 1,
+        "sunX": 0.85,
+        "moon": [
+          0.8860061103924678,
+          0.7533380462737335
+        ],
+        "dusk": 1,
+        "dawn": 0,
+        "sunVisible": 0.5000000000000107,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 0.5594772511096864,
+        "moon": 0,
+        "golden": 0.5829903978052257
+      }
+    },
+    {
+      "hour": 18.6,
+      "light": {
+        "hour": 18.6,
+        "altitude": -0.15643446504023117,
+        "day": 0,
+        "high": 0,
+        "warm": 0,
+        "golden": 0,
+        "sunrise": 0,
+        "sunset": 0,
+        "sunPower": 0,
+        "lamps": 1,
+        "moonPower": 0.64,
+        "fog": 0,
+        "sunPosition": [
+          12.83994842773679,
+          0.12,
+          8.963065021785413
+        ],
+        "skySunPosition": [
+          12.83994842773679,
+          0.12,
+          8.963065021785413
+        ],
+        "exposure": 0.97,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0,
+        "detail": 1,
+        "sunX": 0.85,
+        "moon": [
+          0.8720061103924677,
+          0.7665938590568393
+        ],
+        "dusk": 0.9032771961766041,
+        "dawn": 0,
+        "sunVisible": 0,
+        "moonVisible": 0,
+        "starsVisible": 0,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 0,
+        "moon": 0,
+        "golden": 0
+      }
+    },
+    {
+      "hour": 19.4,
+      "light": {
+        "hour": 19.4,
+        "altitude": -0.3583679495453,
+        "day": 0,
+        "high": 0,
+        "warm": 0,
+        "golden": 0,
+        "sunrise": 0,
+        "sunset": 0,
+        "sunPower": 0,
+        "lamps": 1,
+        "moonPower": 0.64,
+        "fog": 0,
+        "sunPosition": [
+          12.136545544463624,
+          0.12,
+          8.800741279491605
+        ],
+        "skySunPosition": [
+          12.136545544463624,
+          0.12,
+          8.800741279491605
+        ],
+        "exposure": 0.97,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0,
+        "detail": 1,
+        "sunX": 0.85,
+        "moon": [
+          0.8346727770591345,
+          0.800922551422701
+        ],
+        "dusk": 0.09672280382339593,
+        "dawn": 0,
+        "sunVisible": 0,
+        "moonVisible": 0.9887695312499998,
+        "starsVisible": 0.20863016486871508,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 0,
+        "moon": 0.14831542968749997,
+        "golden": 0
+      }
+    },
+    {
+      "hour": 21,
+      "light": {
+        "hour": 21,
+        "altitude": -0.7071067811865471,
+        "day": 0,
+        "high": 0,
+        "warm": 0,
+        "golden": 0,
+        "sunrise": 0,
+        "sunset": 0,
+        "sunPower": 0,
+        "lamps": 1,
+        "moonPower": 0.64,
+        "fog": 0,
+        "sunPosition": [
+          9.192388155425123,
+          0.12,
+          8.121320343559644
+        ],
+        "skySunPosition": [
+          9.192388155425123,
+          0.12,
+          8.121320343559644
+        ],
+        "exposure": 0.97,
+        "running": false,
+        "duration": 240
+      },
+      "sky": {
+        "day": 0,
+        "detail": 1,
+        "sunX": 0.8108160100675443,
+        "moon": [
+          0.7600061103924677,
+          0.860208152801713
+        ],
+        "dusk": 0,
+        "dawn": 0,
+        "sunVisible": 0,
+        "moonVisible": 1,
+        "starsVisible": 1,
+        "seconds": 9
+      },
+      "water": {
+        "sun": 0,
+        "moon": 0.15,
+        "golden": 0
+      }
+    }
+  ],
+  "first": {
+    "context": "running",
+    "muted": false,
+    "nightEligible": true,
+    "dogNext": 48.272,
+    "failures": [],
+    "input": {
+      "mode": "explore",
+      "hour": 21,
+      "lesson": {
+        "index": 0,
+        "elapsed": 0,
+        "playing": false,
+        "speed": 1,
+        "ended": false,
+        "progress": 0,
+        "sentence": 0,
+        "title": "瓜藤攀檐",
+        "shot": {
+          "p": [
+            -10,
+            6.5,
+            10
+          ],
+          "t": [
+            -3.5,
+            1.85,
+            1.4
+          ],
+          "zoom": 2.3
+        },
+        "hour": 8,
+        "duration": 47.78225806451613
+      }
+    },
+    "tracks": [
+      {
+        "id": "morning",
+        "target": 0,
+        "gain": 0.0032447350677102804,
+        "loaded": true,
+        "duration": 41.260083333333334,
+        "rms": 0.003072272622078451,
+        "peak": 0.05335336923599243,
+        "normalization": 18,
+        "oneShot": false,
+        "active": false,
+        "pending": false,
+        "playCount": 0
+      },
+      {
+        "id": "hen",
+        "target": 0,
+        "gain": 0.0002180046431021765,
+        "loaded": true,
+        "duration": 17.317,
+        "rms": 0.018712569468318126,
+        "peak": 0.20666293799877167,
+        "normalization": 6.412801844405686,
+        "oneShot": false,
+        "active": false,
+        "pending": false,
+        "playCount": 0
+      },
+      {
+        "id": "chicks",
+        "target": 0,
+        "gain": 0.00004572749458020553,
+        "loaded": true,
+        "duration": 12.911291666666667,
+        "rms": 0.06923306533861003,
+        "peak": 0.8515610694885254,
+        "normalization": 1.7332758475028573,
+        "oneShot": false,
+        "active": false,
+        "pending": false,
+        "playCount": 0
+      },
+      {
+        "id": "ducks",
+        "target": 0,
+        "gain": 0.00020652986131608486,
+        "loaded": true,
+        "duration": 9.192958333333333,
+        "rms": 0.06913986033686147,
+        "peak": 0.529938280582428,
+        "normalization": 1.7356124154046457,
+        "oneShot": false,
+        "active": false,
+        "pending": false,
+        "playCount": 0
+      },
+      {
+        "id": "river",
+        "target": 0.14,
+        "gain": 0.7910603880882263,
+        "loaded": true,
+        "duration": 97.59583333333333,
+        "rms": 0.021212383311601735,
+        "peak": 0.2564890384674072,
+        "normalization": 5.6570729576797785,
+        "oneShot": false,
+        "active": false,
+        "pending": false,
+        "playCount": 0
+      },
+      {
+        "id": "evening",
+        "target": 0,
+        "gain": 0.004297047387808561,
+        "loaded": true,
+        "duration": 165.09283333333335,
+        "rms": 0.006207832484050606,
+        "peak": 0.08500172942876816,
+        "normalization": 18,
+        "oneShot": false,
+        "active": false,
+        "pending": false,
+        "playCount": 0
+      },
+      {
+        "id": "night",
+        "target": 0.36,
+        "gain": 0.9875831007957458,
+        "loaded": true,
+        "duration": 7.25075,
+        "rms": 0.043646601310532045,
+        "peak": 0.32187116146087646,
+        "normalization": 2.749354964576444,
+        "oneShot": false,
+        "active": false,
+        "pending": false,
+        "playCount": 0
+      },
+      {
+        "id": "rooster",
+        "target": 0,
+        "gain": 0,
+        "loaded": true,
+        "duration": 7.546083333333334,
+        "rms": 0.03542145570882399,
+        "peak": 0.3491925001144409,
+        "normalization": 3.3877771988378864,
+        "oneShot": true,
+        "active": false,
+        "pending": false,
+        "playCount": 0
+      },
+      {
+        "id": "dog",
+        "target": 0.09,
+        "gain": 0.07821538299322128,
+        "loaded": true,
+        "duration": 2.783125,
+        "rms": 0.09020918473433388,
+        "peak": 0.9195043444633484,
+        "normalization": 0.8700339534196602,
+        "oneShot": true,
+        "active": true,
+        "pending": false,
+        "playCount": 1
+      }
+    ]
+  },
+  "dogSilence": {
+    "id": "dog",
+    "target": 0,
+    "gain": 0.07830305397510529,
+    "loaded": true,
+    "duration": 2.783125,
+    "rms": 0.09020918473433388,
+    "peak": 0.9195043444633484,
+    "normalization": 0.8700339534196602,
+    "oneShot": true,
+    "active": false,
+    "pending": false,
+    "playCount": 1
+  },
+  "repeat": {
+    "id": "dog",
+    "target": 0.09,
+    "gain": 0.07830305397510529,
+    "loaded": true,
+    "duration": 2.783125,
+    "rms": 0.09020918473433388,
+    "peak": 0.9195043444633484,
+    "normalization": 0.8700339534196602,
+    "oneShot": true,
+    "active": true,
+    "pending": false,
+    "playCount": 2
+  },
+  "muted": true,
+  "audioMeasure": {
+    "rms": 0.001020457024104029,
+    "peak": 0.013852991163730621,
+    "normalization": 0.8700339534196602
+  },
+  "errors": []
+}

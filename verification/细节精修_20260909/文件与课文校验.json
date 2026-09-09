@@ -1,0 +1,20 @@
+{
+  "rooster": {
+    "source": "/Users/minamiyang/Desktop/音效素材/公鸡打鸣备选/公鸡打鸣.mp3",
+    "copy": "/Users/minamiyang/Documents/ChatGPT/飞象老师小学语文学科/outputs/竹溪小院_优化交接_20260908/优化工作副本/preview/audio/ambience/rooster.mp3",
+    "bytes": 65208,
+    "sha256": "6de1526ea146256dcca17dfac53850a0c601a5cd9fe73db8d555eb6ffe874d27",
+    "identical": true
+  },
+  "lesson": {
+    "paragraphsUnchanged": true,
+    "timingUnchanged": true
+  },
+  "unchanged": {
+    "竹溪小院.blend": true,
+    "preview/竹溪小院_动态.glb": true,
+    "preview/music.js": true,
+    "preview/motion.js": true,
+    "preview/lesson-details.js": true
+  }
+}

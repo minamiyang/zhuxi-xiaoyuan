@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "states": [
+    {
+      "hour": 21,
+      "moon": 0.15
+    },
+    {
+      "hour": 21,
+      "moon": 0.15
+    }
+  ],
+  "errors": []
+}

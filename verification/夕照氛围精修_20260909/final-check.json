@@ -1,0 +1,110 @@
+{
+  "errors": [],
+  "states": [
+    {
+      "hour": 16,
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.824889972421181,
+      "moon": [
+        0.9933394437258011,
+        0.655
+      ],
+      "dusk": 0.17965372238564323,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 17,
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.9466727770591343,
+        0.6960007623325715
+      ],
+      "dusk": 0.9061654788462671,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 17.6,
+      "day": 0.7606325099274445,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.9186727770591343,
+        0.722230161244499
+      ],
+      "dusk": 1,
+      "sunVisible": 1,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 18.200000000000003,
+      "day": 0.06770751073725963,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.8906727770591343,
+        0.7488971125613005
+      ],
+      "dusk": 1,
+      "sunVisible": 0.7839999999999946,
+      "moonVisible": 0,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 18.700000000000003,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.8673394437258009,
+        0.7709800393336652
+      ],
+      "dusk": 0.8215748748293107,
+      "sunVisible": 0,
+      "moonVisible": 0.011230468750001853,
+      "starsVisible": 0,
+      "seconds": 9
+    },
+    {
+      "hour": 19.299999999999997,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.85,
+      "moon": [
+        0.8393394437258012,
+        0.7967471660697409
+      ],
+      "dusk": 0.17842512517068942,
+      "sunVisible": 0,
+      "moonVisible": 0.9077148437499978,
+      "starsVisible": 0.08243435782617374,
+      "seconds": 9
+    },
+    {
+      "hour": 21,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.8108160100675443,
+      "moon": [
+        0.7600061103924677,
+        0.860208152801713
+      ],
+      "dusk": 0,
+      "sunVisible": 0,
+      "moonVisible": 1,
+      "starsVisible": 1,
+      "seconds": 9
+    }
+  ]
+}

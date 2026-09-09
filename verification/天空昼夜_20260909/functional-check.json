@@ -1,0 +1,98 @@
+{
+  "hours": [
+    {
+      "hour": 0,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.5029587181905236,
+      "seconds": 9
+    },
+    {
+      "hour": 5.5,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.2115189393430614,
+      "seconds": 9
+    },
+    {
+      "hour": 6.35,
+      "day": 0.702213149720322,
+      "detail": 1,
+      "sunX": 0.20426388782268076,
+      "seconds": 9
+    },
+    {
+      "hour": 8,
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.2157456680057299,
+      "seconds": 9
+    },
+    {
+      "hour": 12,
+      "day": 1,
+      "detail": 1,
+      "sunX": 0.5376769222363873,
+      "seconds": 9
+    },
+    {
+      "hour": 17.6,
+      "day": 0.7606325099274445,
+      "detail": 1,
+      "sunX": 0.85,
+      "seconds": 9
+    },
+    {
+      "hour": 18.3,
+      "day": 0.014726632859359108,
+      "detail": 1,
+      "sunX": 0.85,
+      "seconds": 9
+    },
+    {
+      "hour": 19,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.85,
+      "seconds": 9
+    },
+    {
+      "hour": 21,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.8108160100675443,
+      "seconds": 9
+    },
+    {
+      "hour": 23.999,
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.6030356753242827,
+      "seconds": 9
+    }
+  ],
+  "running": [
+    {
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.8108160100675443,
+      "seconds": 10.216699999999996
+    },
+    {
+      "day": 0,
+      "detail": 1,
+      "sunX": 0.8108160100675443,
+      "seconds": 11.6167
+    }
+  ],
+  "checks": {
+    "invalid": 0,
+    "inReflectionExclusions": true,
+    "skyInstances": 1,
+    "failedPrograms": 0
+  },
+  "errors": [],
+  "badResponses": [],
+  "modes": true,
+  "resize": true
+}

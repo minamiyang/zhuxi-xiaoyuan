@@ -1,0 +1,31 @@
+{
+  "原项目": {
+    "checked": 1506,
+    "mismatches": [
+      "verification/preview-server.log"
+    ]
+  },
+  "留存版": {
+    "checked": 1506,
+    "mismatches": []
+  },
+  "副本保留内容": {
+    "竹溪小院.blend": true,
+    "preview/竹溪小院_动态.glb": true,
+    "preview/lesson.js": true,
+    "preview/lesson-details.js": true,
+    "preview/music.js": true,
+    "preview/soundscape.js": true,
+    "preview/motion.js": true,
+    "preview/hen-v3.js": true,
+    "preview/audio/ambience/chicks.mp3": true,
+    "preview/audio/ambience/ducks.mp3": true,
+    "preview/audio/ambience/evening.mp3": true,
+    "preview/audio/ambience/hen.mp3": true,
+    "preview/audio/ambience/morning.mp3": true,
+    "preview/audio/ambience/night.mp3": true,
+    "preview/audio/ambience/river.mp3": true,
+    "preview/audio/pei-yue-final.m4a": true,
+    "preview/audio/tian-geng.mp3": true
+  }
+}

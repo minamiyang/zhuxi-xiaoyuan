@@ -26,7 +26,8 @@ export function installSoftSunShadows(){
 }
 export function createSkyEnvironment(renderer){
  const sky=new THREE.Scene();
- const mat=new THREE.ShaderMaterial({side:THREE.BackSide,vertexShader:'varying vec3 vDir;void main(){vDir=position;gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.0);}',fragmentShader:`varying vec3 vDir;void main(){vec3 d=normalize(vDir);float h=clamp(d.y*.5+.5,0.,1.);vec3 c=mix(vec3(.20,.16,.105),vec3(.45,.61,.86),smoothstep(.05,.96,h));c=mix(c,vec3(.90,.82,.67),exp(-pow(d.y/.20,2.))*.46);vec3 sun=normalize(vec3(-5.,8.,4.));float halo=pow(max(dot(d,sun),0.),32.);c+=vec3(1.,.78,.48)*halo*.6;gl_FragColor=vec4(c,1.);}`});
+ const mat=new THREE.ShaderMaterial({side:THREE.BackSide,vertexShader:'varying vec3 vDir;void main(){vDir=position;gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.0);}',fragmentShader:`varying vec3 vDir;void main(){vec3 d=normalize(vDir);float h=clamp(d.y*.5+.5,0.,1.);vec3 c=mix(vec3(.20,.16,.105),vec3(.45,.61,.86),smoothstep(.05,.96,h));c=mix(c,vec3(.90,.82,.67),exp(-pow(d.y/.20,2.))*.46);// Broad sky only: the moving directional sun owns the solar highlight.
+gl_FragColor=vec4(c,1.);}`});
  const sphere=new THREE.Mesh(new THREE.SphereGeometry(20,32,16),mat);sky.add(sphere);const pmrem=new THREE.PMREMGenerator(renderer);const rt=pmrem.fromScene(sky,.12,.1,100);sphere.geometry.dispose();mat.dispose();pmrem.dispose();return rt;
 }
 const GLSL=`
